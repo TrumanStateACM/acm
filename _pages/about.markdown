@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hello, World!
 
-This is the website for Truman State University's ACM chapter. Truman State University is the premier public liberal arts college of Missouri with a student population of ~5,500 and a diverse student culture. 
+This is the website for Truman State University's ACM chapter. You can join our [Discord channel][DA]. You don't have to make an account, you can just look around. Hope to see you there. 
 
 # Please Don't Mind the Dust
 
@@ -23,3 +23,5 @@ Treasurer - Keaton Leppanen
 Secretary - Garrett Money
 
 Webmaster - Evan Brookos
+
+[DA]: https://discordapp.com/invite/2J4zUZ5
