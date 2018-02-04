@@ -10,16 +10,16 @@ This is the website for Truman State University's ACM chapter. Truman State Univ
 
 # Please Don't Mind the Dust
 
-The website currently being used is brand new and has some touching up left to be done. Please feel free to report any weird bugs to ejg[four-seven-three-two]@truman.edu
+The website currently being used is brand new and has some touching up left to be done. Please feel free to report any weird bugs to ecb5723@truman.edu
 
 # Executives
 
 President - William Fries
 
-Vice President - Lane Willis
+Vice President - N/A
 
 Treasurer - Keaton Leppanen
 
-Secretary - Isaac Speed
+Secretary - Garrett Money
 
-Webmaster - [Elias Julian Marko Garcia](http://ageof.info)
+Webmaster - Evan Brookos
