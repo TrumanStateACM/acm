@@ -3,10 +3,10 @@
   <channel>
     <title>Truman ACM</title>
     <description>The website for Truman State's ACM chapter!</description>
-    <link>http://localhost:4000/acm/</link>
-    <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Feb 2018 15:43:27 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Feb 2018 15:43:27 -0600</lastBuildDate>
+    <link>http://sand.truman.edu/acm/</link>
+    <atom:link href="http://sand.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Feb 2018 16:21:48 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Feb 2018 16:21:48 -0600</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;-ejmg&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Feb 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/acm/2017/02/hello-world</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2017/02/hello-world</guid>
+        <link>http://sand.truman.edu/acm/2017/02/hello-world</link>
+        <guid isPermaLink="true">http://sand.truman.edu/acm/2017/02/hello-world</guid>
         
         
         <category>update</category>
