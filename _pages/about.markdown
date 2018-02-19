@@ -18,15 +18,15 @@ The website currently being used is brand new and has some touching up left to b
 
 # Executives
 
-President - William Fries
+President - Evan Brooks
 
-Vice President - N/A
+Vice President - Minghao Shan
 
-Treasurer - Keaton Leppanen
+Treasurer - Azeeza Eagal
 
-Secretary - Garrett Money
+Secretary - William Fries
 
-Webmaster - Evan Brookos
+Webmaster - Pasindu Tennakoon
 
 Advisor - Dr. Seiffertt, jseiffertt@truman.edu
 

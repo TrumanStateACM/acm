@@ -22,15 +22,6 @@ permalink: /events/
 
    <br />
 
-* [Sham Hacks][SH]
-
-   Date: February 9<sup>th</sup>-11<sup>th</sup>
-
-   Location: Missouri S&T, Rolla
-
-   [Registration][RT]
-
-   <br />
 
 * [BSides Iowa][BI]
 
