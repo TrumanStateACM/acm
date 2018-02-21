@@ -11,7 +11,7 @@ This is the website for the Truman State chapter of the Association for Computin
 
 We have meetings every Monday at 6:00PM at VH1332. Whether you have never participated with ACM before or are an English major, we would love to meet you. Meetings often cover a topic in programming or computing and often involve speakers so you are bound to learn something new!
 
-Executive meetings are on every Tuesday at 7:00PM in upstairs violet.
+Executive meetings are on every Tuesday at 7:30PM in VH 1424.
 
 # Truman Hackathon 2018!
 
