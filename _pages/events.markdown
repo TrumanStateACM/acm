@@ -6,22 +6,6 @@ permalink: /events/
 
 # Here we will post upcoming events
 
-* [Hackathon 2018][HT]
-	
-    Date: April 6<sup>th</sup>-8<sup>th</sup>
-
-    Location: Violet Hall
-    
-   <br />
-
-* [Hack ISU][HI]
-
-   Date: March 23<sup>rd</sup>-25<sup>th</sup>
-
-   Location: Iowa State
-
-   <br />
-
 
 * [BSides Iowa][BI]
 
@@ -39,7 +23,9 @@ permalink: /events/
 
 * CS Bonfire
 
-   Date/Time: TBA
+   Date: April 27th, 2018
+   
+   Location: Beck's House, Kirksville MO 
 
 
 

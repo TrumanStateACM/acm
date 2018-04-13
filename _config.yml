@@ -17,7 +17,7 @@ title: Truman ACM
 email: ecb5723@truman.edu
 description: "The website for Truman State's ACM chapter!"
 baseurl: "/acm" # the subpath of your site, e.g. /blog
-url: http://sand.truman.edu # the base hostname & protocol for your site
+url: http://ice.truman.edu # the base hostname & protocol for your site
 
 # Social
 githubUsername:
