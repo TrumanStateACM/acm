@@ -6,6 +6,8 @@ permalink: /events/
 
 # Here we will post upcoming events
 
+<iframe src="https://calendar.google.com/calendar/embed?src=acm%40truman.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 * [BSides Iowa][BI]
 
@@ -25,7 +27,9 @@ permalink: /events/
 
    Date: April 27th, 2018
    
-   Location: Beck's House, Kirksville MO 
+   Time: 7.00pm
+
+   Location: Beck's House, Kirksville MO. (Carpool at SUB fountain around 6.30pm)
 
 
 

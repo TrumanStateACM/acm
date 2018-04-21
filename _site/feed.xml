@@ -5,15 +5,13 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://localhost:4000/acm/</link>
     <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Apr 2018 20:47:56 -0500</pubDate>
-    <lastBuildDate>Thu, 12 Apr 2018 20:47:56 -0500</lastBuildDate>
+    <pubDate>Fri, 20 Apr 2018 19:09:17 -0500</pubDate>
+    <lastBuildDate>Fri, 20 Apr 2018 19:09:17 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
         <title>Hello World, Hello New ACM Website!</title>
-        <description>&lt;h1 id=&quot;new-website&quot;&gt;New Website!&lt;/h1&gt;
-
-&lt;p&gt;After some tweaking, screaming (joking), googling, and a few emails with Dr. Bindner, I got the website to render correctly on sand.&lt;/p&gt;
+        <description>&lt;p&gt;After some tweaking, screaming (joking), googling, and a few emails with Dr. Bindner, I got the website to render correctly on sand.&lt;/p&gt;
 
 &lt;p&gt;For those who might be interested, the confusion I had was configuring the website to build off the right base url. Since this blog is built as a directory off of &lt;code class=&quot;highlighter-rouge&quot;&gt;sand.truman.edu&lt;/code&gt; the base url is not the host itself, but the directory &lt;code class=&quot;highlighter-rouge&quot;&gt;/acm&lt;/code&gt; itself. After generating the website with those configurations, the problem was solved.&lt;/p&gt;
 

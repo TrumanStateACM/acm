@@ -13,6 +13,6 @@ We have meetings every Monday at 6:00PM at VH1332. Whether you have never partic
 
 Executive meetings are on every Tuesday at 7:30PM in VH 1424.
 
-# Truman Hackathon 2018!
+# Meeting 4/23!
 
-We're excited announce that ACM will be hosting the third annual Truman State Hackathon on April 6<sup>th</sup>-8<sup>th</sup>
+Dr. Bindner will talk about Bitcoin during the meeting on Monday, 23<sup>rd</sup> of April.
