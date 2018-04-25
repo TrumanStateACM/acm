@@ -1,3 +1,8 @@
+# Meeting Minutes notes
+
+- file name should be in the format yyyy-mm-dd-string.md
+- title tag will be what is actually displayed on the webpage, so it should be meaningful 
+
 # material-jekyll-theme
 [Demo](http://alexcarpenter.github.io/material-jekyll-theme)
 
