@@ -5,26 +5,119 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://localhost:4000/acm/</link>
     <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Apr 2018 19:09:17 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Apr 2018 19:09:17 -0500</lastBuildDate>
+    <pubDate>Tue, 24 Apr 2018 20:08:47 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Apr 2018 20:08:47 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
-        <title>Hello World, Hello New ACM Website!</title>
-        <description>&lt;p&gt;After some tweaking, screaming (joking), googling, and a few emails with Dr. Bindner, I got the website to render correctly on sand.&lt;/p&gt;
+        <title>Dr. Bindner Bitcoin Presentation</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://bitcoin.org/img/icons/opengraph.png&quot; alt=&quot;Bitcoin Logo&quot; style=&quot;width: 16em;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;CS bonfire Friday 27th. 7pm at Beck’s house&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;For those who might be interested, the confusion I had was configuring the website to build off the right base url. Since this blog is built as a directory off of &lt;code class=&quot;highlighter-rouge&quot;&gt;sand.truman.edu&lt;/code&gt; the base url is not the host itself, but the directory &lt;code class=&quot;highlighter-rouge&quot;&gt;/acm&lt;/code&gt; itself. After generating the website with those configurations, the problem was solved.&lt;/p&gt;
+&lt;h3 id=&quot;topic&quot;&gt;Topic&lt;/h3&gt;
+&lt;p&gt;Bindner talked about Bitcoin.&lt;/p&gt;
 
-&lt;p&gt;Regardless, I hope everyone likes the new website for Truman’s ACM chapter. I think it’s a pretty good upgrade from before but all input is welcomed of course!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mentioned that passwords for sensitive information should not be the same as other websites.
+    &lt;ul&gt;
+      &lt;li&gt;One weak link can compromise a system&lt;/li&gt;
+      &lt;li&gt;Doesn’t necessarily effect you, but can effect others&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hash Cash
+    &lt;ul&gt;
+      &lt;li&gt;Attempt to stop spam&lt;/li&gt;
+      &lt;li&gt;Update SMTP
+        &lt;ul&gt;
+          &lt;li&gt;Can allow a mail server to question the sender server if it suspects spam&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;This makes spam cost more electricity and time in hopes spam decreases&lt;/li&gt;
+      &lt;li&gt;Never caught on&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Public key encryption
+    &lt;ul&gt;
+      &lt;li&gt;Has personal private key and a public key&lt;/li&gt;
+      &lt;li&gt;Private key
+        &lt;ul&gt;
+          &lt;li&gt;decrypt&lt;/li&gt;
+          &lt;li&gt;sign messages&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Public key
+        &lt;ul&gt;
+          &lt;li&gt;encryption&lt;/li&gt;
+          &lt;li&gt;verify signature&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Digicash
+    &lt;ul&gt;
+      &lt;li&gt;Required bank&lt;/li&gt;
+      &lt;li&gt;Didn’t know who money was from until someone tried to spend the money twice&lt;/li&gt;
+      &lt;li&gt;Died when bank bought out tech and killed it
+        &lt;ul&gt;
+          &lt;li&gt;Competed with credit cards&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Crypto currencies
+    &lt;ul&gt;
+      &lt;li&gt;Simply signing messages saying you are paying someone doesn’t work
+        &lt;ul&gt;
+          &lt;li&gt;You can sign a message to multiple people&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;There must be a way for everyone to know when a payment is made
+        &lt;ul&gt;
+          &lt;li&gt;Blockchain is a way to go&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Blockchain
+    &lt;ul&gt;
+      &lt;li&gt;When you make a transaction, you set an amount of money you will pay someone if they find a block in the chain
+        &lt;ul&gt;
+          &lt;li&gt;You want the money or fee to be high enough that miners will want to include it in their blocks&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;It takes lots of time and money to mine these blocks
+        &lt;ul&gt;
+          &lt;li&gt;This makes it far to expensive to forge blocks&lt;/li&gt;
+          &lt;li&gt;After a few blocks, a transaction is cemented into the block chain&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Why care about digital currency
+    &lt;ul&gt;
+      &lt;li&gt;Don’t really care as much in US because we have credit cards and similar devices&lt;/li&gt;
+      &lt;li&gt;It is very expensive and difficult to get money in and out of the US
+        &lt;ul&gt;
+          &lt;li&gt;Digital currency can make this cheaper&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;In unstable countries, it is easy to smuggle digital currency out by remembering a set of words or a passcode for a digital wallet&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;-ejmg&lt;/p&gt;
 </description>
-        <pubDate>Sun, 19 Feb 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/acm/2017/02/hello-world</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2017/02/hello-world</guid>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/acm/2018/04/Bitcoin</link>
+        <guid isPermaLink="true">http://localhost:4000/acm/2018/04/Bitcoin</guid>
         
         
-        <category>update</category>
+        <category>meeting</category>
+        
+        <category>minutes</category>
         
       </item>
     
