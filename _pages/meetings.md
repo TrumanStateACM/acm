@@ -5,7 +5,7 @@ permalink: /meetings/
 ---
 
 {% for post in site.posts %}
-# {{ post.title }}
+# <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 {{ post.date | date: "%b %-d, %Y"}}
 {{ post.excerpt }} <a href="{{ post.url | prepend: site.baseurl }}">more...</a>
 {% endfor %}

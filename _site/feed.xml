@@ -5,12 +5,102 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://localhost:4000/acm/</link>
     <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Apr 2018 20:08:47 -0500</pubDate>
-    <lastBuildDate>Tue, 24 Apr 2018 20:08:47 -0500</lastBuildDate>
+    <pubDate>Fri, 18 May 2018 15:41:40 -0500</pubDate>
+    <lastBuildDate>Fri, 18 May 2018 15:41:40 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
-        <title>Dr. Bindner Bitcoin Presentation</title>
+        <title>Jordan Butler's Wrist Game</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;p&gt;Final Meeting. Hope to see everyone next year.&lt;/p&gt;
+&lt;h4 id=&quot;get-the-app-on-the-app-store&quot;&gt;Get the app on the app store&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/dX2UgmFSxVwKeGN2ar-xMIeHg7GS5QT9KT2FuzEBLofUH28-SM4IBXtWPbjvsnj6fg=s360-rw&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.thrustgames.wrist&quot;&gt;&lt;img src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&quot; alt=&quot;Google Play Link&quot; style=&quot;width: 12em;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/app/wrist/id1354769672?mt=8&quot;&gt; &lt;img src=&quot;https://atlona.com/wp-content/uploads/2017/12/Apple-App-Store-_logo.png&quot; alt=&quot;Apple App Store&quot; style=&quot;width: 10em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;topic&quot;&gt;Topic&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/wrist/id1354769672?mt=8&quot;&gt;IOS App Store&lt;/a&gt; &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.thrustgames.wrist&quot;&gt;Google Play&lt;/a&gt;
+Jordan Butler&lt;/p&gt;
+
+&lt;p&gt;Founded company: Thrust Games&lt;/p&gt;
+
+&lt;p&gt;First game&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Shoot em up&lt;/li&gt;
+  &lt;li&gt;Basic game of spaceship shooting other ships&lt;/li&gt;
+  &lt;li&gt;Game salad engine&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Second game&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Shoot em up 2&lt;/li&gt;
+  &lt;li&gt;First copyrighted&lt;/li&gt;
+  &lt;li&gt;Better graphics
+    &lt;ul&gt;
+      &lt;li&gt;Started using photoshop and such&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In game currencies
+    &lt;ul&gt;
+      &lt;li&gt;In-app purchases&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stop the box&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;First big game&lt;/li&gt;
+  &lt;li&gt;Videos of this game got big hits on Instagram and other social media&lt;/li&gt;
+  &lt;li&gt;Featured on Fox news&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Newest game: Wrist&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Implemented leaderboards
+    &lt;ul&gt;
+      &lt;li&gt;Using apple service&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;160 levels&lt;/li&gt;
+  &lt;li&gt;Tilt the phone to guide the ball to the end&lt;/li&gt;
+  &lt;li&gt;Earn in game currencies&lt;/li&gt;
+  &lt;li&gt;Can customize many aspects of the game through the store&lt;/li&gt;
+  &lt;li&gt;Added ability to calibrate sensors so that the game doesn’t have to be played in one position the whole time
+    &lt;ul&gt;
+      &lt;li&gt;Took 7 months of development&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;At most 10 months per week of development during school.
+    &lt;ul&gt;
+      &lt;li&gt;More than that during summer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Game has better performance than older games by Thrust Games&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Connections&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Wrist has two investors&lt;/li&gt;
+  &lt;li&gt;Got to drive Lambo&lt;/li&gt;
+  &lt;li&gt;Meeting people can lead to other connections&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 30 Apr 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/acm/2018/04/Jordan-Butler's-Wrist</link>
+        <guid isPermaLink="true">http://localhost:4000/acm/2018/04/Jordan-Butler's-Wrist</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
+    
+      <item>
+        <title>Dr. Bindner's Bitcoin Presentation</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://bitcoin.org/img/icons/opengraph.png&quot; alt=&quot;Bitcoin Logo&quot; style=&quot;width: 16em;&quot; /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
 &lt;ul&gt;

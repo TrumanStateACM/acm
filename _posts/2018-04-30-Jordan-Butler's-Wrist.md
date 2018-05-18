@@ -6,12 +6,12 @@ categories: meeting minutes
 ---
 
 ### Announcements 
-
 Final Meeting. Hope to see everyone next year. 
-
 #### Get the app on the app store
-<a href"https://play.google.com/store/apps/details?id=com.thrustgames.wrist"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Google Play Link" style"width: 16em;" ></a>
-<a href"https://itunes.apple.com/us/app/wrist/id1354769672?mt=8"> <img src="https://atlona.com/wp-content/uploads/2017/12/Apple-App-Store-_logo.png" alt="Apple App Store" style"width: 16em;" ></a>
+<img src="https://lh3.googleusercontent.com/dX2UgmFSxVwKeGN2ar-xMIeHg7GS5QT9KT2FuzEBLofUH28-SM4IBXtWPbjvsnj6fg=s360-rw"/>
+
+<a href="https://play.google.com/store/apps/details?id=com.thrustgames.wrist"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Google Play Link" style="width: 12em;" ></a>
+<a href="https://itunes.apple.com/us/app/wrist/id1354769672?mt=8"> <img src="https://atlona.com/wp-content/uploads/2017/12/Apple-App-Store-_logo.png" alt="Apple App Store" style="width: 10em;" ></a>
 
 ### Topic
 
