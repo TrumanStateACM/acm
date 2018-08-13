@@ -6,6 +6,10 @@ permalink: /events/
 
 # Here we will post upcoming events
 
+### Cerner presenation and resume talk
+* Date: 26 September 
+* Time: 6:00 pm
+* Room: TBA 
 
 
 
