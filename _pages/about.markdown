@@ -28,7 +28,7 @@ Secretary - William Fries
 
 Webmaster - Pasindu Tennakoon
 
-Advisor - Dr. Seiffertt, jseiffertt@truman.edu
+Advisor - Dr. Donald Bindner, dbindner@truman.edu  
 
 [DA]: https://discordapp.com/invite/2J4zUZ5
 [FB]: https://www.facebook.com/groups/trumanacm
