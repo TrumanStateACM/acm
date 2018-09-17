@@ -15,7 +15,7 @@ Final Meeting. Hope to see everyone next year.
 
 ### Topic
 
-[IOS App Store][IOS] [Google Play][GP]
+
 Jordan Butler
 
 Founded company: Thrust Games
@@ -55,6 +55,3 @@ Connections
    - Wrist has two investors
    - Got to drive Lambo
    - Meeting people can lead to other connections
-   
-[IOS]: https://itunes.apple.com/us/app/wrist/id1354769672?mt=8
-[GP]: https://play.google.com/store/apps/details?id=com.thrustgames.wrist

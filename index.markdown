@@ -11,11 +11,6 @@ Checkout our events tab to see the calendar and upcoming events. Also checkout t
 
 ## Meetings
 
-We have meetings every Monday at 6:00PM at VH1332. Whether you have never participated with ACM before or are an English major, we would love to meet you. Meetings often cover a topic in programming or computing and often involve speakers so you are bound to learn something new!
+Our next general meeting is targeted for all members and is held on the 17th of September at VH 1332. 
 
-
-# Freshman and First Meeting
-
-We will have a meeting to welcome new freshman to the club and also have our first full meeting on the 10th of September. We will talk about our plans for the club and future events. Hope to see you there. 
-
-There is also a general meeting on the 17th of September for everyone.
+Also, if you are a freshman please fill out [THIS](goo.gl/cBSmGv) survey to help us get an idea of what you are looking forward to doing in this club.
