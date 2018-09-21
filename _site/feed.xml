@@ -5,9 +5,113 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://localhost:4000/acm/</link>
     <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Sep 2018 12:39:23 -0500</pubDate>
-    <lastBuildDate>Sat, 15 Sep 2018 12:39:23 -0500</lastBuildDate>
+    <pubDate>Fri, 21 Sep 2018 12:18:51 -0500</pubDate>
+    <lastBuildDate>Fri, 21 Sep 2018 12:18:51 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Resume Tips</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;look out for new changes this semester
+    &lt;ul&gt;
+      &lt;li&gt;We will now be collecting dues this semester at $5.&lt;/li&gt;
+      &lt;li&gt;This will get you into the events and helps up provide exciting things and hopefully cool prizes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;We will be having two events this semester
+    &lt;ul&gt;
+      &lt;li&gt;coding competition&lt;/li&gt;
+      &lt;li&gt;robo code&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;topic-resumes&quot;&gt;Topic: resumes&lt;/h2&gt;
+
+&lt;p&gt;Contact info&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Keep it short and simple
+    &lt;ul&gt;
+      &lt;li&gt;Name&lt;/li&gt;
+      &lt;li&gt;Email&lt;/li&gt;
+      &lt;li&gt;Phone number&lt;/li&gt;
+      &lt;li&gt;Links to sites&lt;/li&gt;
+      &lt;li&gt;Address (according to the career center companies often sort by how close a candidate is to the place they will work)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Summary/Objective&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tell the recruiter what you want to do with your skills, not what the skills specifically are&lt;/li&gt;
+  &lt;li&gt;Show ambition and the drive to utilize what you know&lt;/li&gt;
+  &lt;li&gt;Keep it short (Jaiswal emphasized this because some recruiters do not like it when this is included)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Experience&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Think big
+    &lt;ul&gt;
+      &lt;li&gt;Of course you programmed at a CS internship&lt;/li&gt;
+      &lt;li&gt;think more of specifically what you did&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Freshman
+    &lt;ul&gt;
+      &lt;li&gt;They know you haven’t done real work in CS yet so keep this short. Focus on projects&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Think of what skills you used hard or soft and the combination of both
+    &lt;ul&gt;
+      &lt;li&gt;Programmed an android app as a team&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Never say you have no experience. If you don’t you have the power to change that
+    &lt;ul&gt;
+      &lt;li&gt;There are countless websites out there that allow you to practice&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;hackerrank.com&quot;&gt;Hackerrank&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;codeacademy.com&quot;&gt;Code Academy&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Education&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This can add to experience if you don’t have a lot.&lt;/li&gt;
+  &lt;li&gt;Specify coursework that will stand out&lt;/li&gt;
+  &lt;li&gt;Specify awards or honors&lt;/li&gt;
+  &lt;li&gt;Anything else you did in school that could pertain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Skills&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You want to know how to talk about your skills&lt;/li&gt;
+  &lt;li&gt;Expand upon the skill with tools you use for it
+    &lt;ul&gt;
+      &lt;li&gt;Database software&lt;/li&gt;
+      &lt;li&gt;Development environments&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Try to keep them relevant or related to what you do
+    &lt;ul&gt;
+      &lt;li&gt;You’re not good at writing papers, your a strong technical writer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://zety.com/blog/computer-science-resume&quot;&gt;Here&lt;/a&gt; is the website i primarily used for my information. Remember, there is no one right way to create a resume as long as it gets the information across without being hard to read&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/acm/2018/09/Resume-Building</link>
+        <guid isPermaLink="true">http://localhost:4000/acm/2018/09/Resume-Building</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
     
       <item>
         <title>Jordan Butler's Wrist Game</title>
