@@ -5,8 +5,8 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://localhost:4000/acm/</link>
     <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Sep 2018 12:18:51 -0500</pubDate>
-    <lastBuildDate>Fri, 21 Sep 2018 12:18:51 -0500</lastBuildDate>
+    <pubDate>Sun, 23 Sep 2018 18:26:35 -0500</pubDate>
+    <lastBuildDate>Sun, 23 Sep 2018 18:26:35 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -70,8 +70,8 @@
   &lt;li&gt;Never say you have no experience. If you don’t you have the power to change that
     &lt;ul&gt;
       &lt;li&gt;There are countless websites out there that allow you to practice&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;hackerrank.com&quot;&gt;Hackerrank&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;codeacademy.com&quot;&gt;Code Academy&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com&quot;&gt;Hackerrank&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.codeacademy.com&quot;&gt;Code Academy&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;

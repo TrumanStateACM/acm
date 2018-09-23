@@ -41,8 +41,8 @@ Experience
     - Programmed an android app as a team 
 - Never say you have no experience. If you don’t you have the power to change that
     - There are countless websites out there that allow you to practice 
-    - [Hackerrank](hackerrank.com)
-    - [Code Academy](codeacademy.com)
+    - [Hackerrank](https://www.hackerrank.com)
+    - [Code Academy](https://www.codeacademy.com)
 
 Education
 - This can add to experience if you don't have a lot. 
