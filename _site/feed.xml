@@ -5,8 +5,8 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://localhost:4000/acm/</link>
     <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Oct 2018 22:36:09 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Oct 2018 22:36:09 -0500</lastBuildDate>
+    <pubDate>Tue, 02 Oct 2018 22:38:02 -0500</pubDate>
+    <lastBuildDate>Tue, 02 Oct 2018 22:38:02 -0500</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
