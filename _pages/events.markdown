@@ -6,16 +6,6 @@ permalink: /events/
 
 # Here we will post upcoming events
 
-### Cerner presenation and resume talk
-* Date: 26 September 
-* Time: 6:00 pm
-* Room: VH 1400
-
-### Coding Competition
-- Date: 29 September
-- Time: 1-5:30pm
-- Room: VH 1232 
-
 ### [Hackisu][HI]
 - Date: 19-21 October
 - Iowa State
