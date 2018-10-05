@@ -15,4 +15,9 @@ Thank you to all who came to the competition. We had a great turn out and was cl
 
 ## General Meeting October 8th 
 
-Topic to be announced. As always, if there is something specific you want to see don't hesitate to contact us at acm@truman.edu
+Threading in Python: we'll start simple with basic concurrency, and then talk about cross-thread communication techniques. Next we'll discuss how Python internally operates, and how this impacts design decisions. Finally, we'll end with a quick discussion of asyncio, a recent and novel addition to Python's concurrency libraries.
+As always, if there is something specific you want to see don't hesitate to contact us at acm@truman.edu
+
+## General Meeting October 15th 
+
+We will be talking about classes to take and classes to avoid and answer questions about professors here at Truman. Even if you know your schedule, it cant hurt to know what blow off classes to pad senior year with. 
