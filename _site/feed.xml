@@ -3,11 +3,197 @@
   <channel>
     <title>Truman ACM</title>
     <description>The website for Truman State's ACM chapter!</description>
-    <link>http://localhost:4000/acm/</link>
-    <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Oct 2018 22:38:02 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Oct 2018 22:38:02 -0500</lastBuildDate>
-    <generator>Jekyll v3.7.2</generator>
+    <link>http://acm.truman.edu/acm/</link>
+    <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Oct 2018 13:07:57 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Oct 2018 13:07:57 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Classes for Spring 2019</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mock interviews coming up October 28th
+    &lt;ul&gt;
+      &lt;li&gt;Sign on on website&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CS Bonfire
+    &lt;ul&gt;
+      &lt;li&gt;November 2nd&lt;/li&gt;
+      &lt;li&gt;Beck’s house&lt;/li&gt;
+      &lt;li&gt;carpool at sub&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Robocode
+    &lt;ul&gt;
+      &lt;li&gt;November 10th&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Next meeting
+    &lt;ul&gt;
+      &lt;li&gt;October 15th&lt;/li&gt;
+      &lt;li&gt;Python concurrency&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;topic-classes&quot;&gt;Topic: Classes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.truman.edu/registrar/schedules-and-calendars/registration-dates-spring/&quot;&gt;Registration dates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://catalog.truman.edu/preview_program.php?catoid=14&amp;amp;poid=2048&quot;&gt;General Requirements for CS Degree&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Classes offered in the spring&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;100 Computer Science Seminar R&lt;/li&gt;
+  &lt;li&gt;170 Intro to Computer Science I&lt;/li&gt;
+  &lt;li&gt;180 Fnd of Computer Science I R&lt;/li&gt;
+  &lt;li&gt;181 Foundations of Comp Science II R&lt;/li&gt;
+  &lt;li&gt;191 Computing Structures R&lt;/li&gt;
+  &lt;li&gt;250 Systems Programming R&lt;/li&gt;
+  &lt;li&gt;260 Object-Oriented Prog &amp;amp; Design R&lt;/li&gt;
+  &lt;li&gt;291 Models of Computation R&lt;/li&gt;
+  &lt;li&gt;310 Data Structures &amp;amp; Algorithms R&lt;/li&gt;
+  &lt;li&gt;330 Computer Architecture &amp;amp; Org R&lt;/li&gt;
+  &lt;li&gt;345 WE/Cyberethics R&lt;/li&gt;
+  &lt;li&gt;370 WE/Software Engineering A&lt;/li&gt;
+  &lt;li&gt;430 Database Systems AC&lt;/li&gt;
+  &lt;li&gt;460 Computer Graphics C&lt;/li&gt;
+  &lt;li&gt;470 Computer Networks B&lt;/li&gt;
+  &lt;li&gt;480 Artificial Intelligence C&lt;/li&gt;
+  &lt;li&gt;495 Senior Seminar in CS R&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;R = required by major&lt;/p&gt;
+
+&lt;p&gt;A B C = Sections satisfied&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Professors teaching important classes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CS 181 - Beck, Jaiswal&lt;/li&gt;
+  &lt;li&gt;CS 191 - Halma&lt;/li&gt;
+  &lt;li&gt;CS 250 - Matthews&lt;/li&gt;
+  &lt;li&gt;CS 260 - Matthews&lt;/li&gt;
+  &lt;li&gt;CS 291 - Garvey&lt;/li&gt;
+  &lt;li&gt;CS 330 - Matthews&lt;/li&gt;
+  &lt;li&gt;CS 430 - Jaiswal&lt;/li&gt;
+  &lt;li&gt;CS 460 - Neitzke&lt;/li&gt;
+  &lt;li&gt;CS 470 - Jaiswal&lt;/li&gt;
+  &lt;li&gt;CS 480 - Garvey&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is one of the first times neither Halma or Neitzke is teaching 291. I would take that if at all possible&lt;/li&gt;
+  &lt;li&gt;Neitzke has also started teaching 330 recently. If you are able to i would also take 330 with Matthews&lt;/li&gt;
+  &lt;li&gt;I personally think it would be really fun to take 181 with Beck, but I think you would get just as much out of it with Jaiswal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Secondary courses offered in science and math&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Stat 290 - Thatcher&lt;/li&gt;
+  &lt;li&gt;Calc 1 - Vazzana, Howard, Palumbo&lt;/li&gt;
+  &lt;li&gt;Calc 2 - quinn, fernando&lt;/li&gt;
+  &lt;li&gt;Calc 3 - Belanger&lt;/li&gt;
+  &lt;li&gt;Math 200 - Easley&lt;/li&gt;
+  &lt;li&gt;Phys 185 - Ling, Sherafati&lt;/li&gt;
+  &lt;li&gt;Chem 100 - Carter, Afzal, Kauffmann&lt;/li&gt;
+  &lt;li&gt;Chem 130 - Kauffmann, Fuller, Lyon&lt;/li&gt;
+  &lt;li&gt;Biol 100 - Bergey, Berke, Kuczynski, Ma, Pareja&lt;/li&gt;
+  &lt;li&gt;Biol 106 - Fielden-Rechav&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Thatcher is probably the easiest stat teacher. She also teaches it almost every semester. If you cant take it with her, try and get Downey if available&lt;/li&gt;
+  &lt;li&gt;Vazzana is an amazing calc professor. if possible take any calc class with him
+    &lt;ul&gt;
+      &lt;li&gt;Garth is also a professor who teaches calc. You may not learn as much with him, but his classes tend to be easy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Math 200 replaces 191. You will learn more with Easley, but Garth teaches it sometimes and is easier&lt;/li&gt;
+  &lt;li&gt;Carter is great for chem 100 if you dont want to learn anything&lt;/li&gt;
+  &lt;li&gt;Ma is a chill professor, but may not be good for beginning classes
+    &lt;ul&gt;
+      &lt;li&gt;Bergey and Fielden are great professors&lt;/li&gt;
+      &lt;li&gt;Avoid Berke&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;LSP classes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;there are a lot of these classes with many professors for each one&lt;/li&gt;
+  &lt;li&gt;use &lt;a href=&quot;http://www.ratemyprofessors.com/&quot;&gt;Rate My Professors&lt;/a&gt; and look them up to see which are good&lt;/li&gt;
+  &lt;li&gt;Professors can make an easy class hard, so look them up&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Some specific reqirements&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Philosophy and religion
+    &lt;ul&gt;
+      &lt;li&gt;Logic (really good for learning proofs)&lt;/li&gt;
+      &lt;li&gt;Ethics (easy, but can be boring since you already have to take an ethics class)&lt;/li&gt;
+      &lt;li&gt;Exploring religions (easy)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Health
+    &lt;ul&gt;
+      &lt;li&gt;Military science (2 sem) More of a time commitment&lt;/li&gt;
+      &lt;li&gt;Lifetime fitness&lt;/li&gt;
+      &lt;li&gt;Personal health and fitness&lt;/li&gt;
+      &lt;li&gt;one of the fitness classes is partially online&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Filler Classes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lib 111 Library science (1 credit) - Glaubitz&lt;/li&gt;
+  &lt;li&gt;Stat 374 Stat Quality Control (3 Credit) - Downey/Thatcher&lt;/li&gt;
+  &lt;li&gt;Chem 100 (4 Credit) - Don’t learn much&lt;/li&gt;
+  &lt;li&gt;PD 312 Basic Aviation (3 Credit)&lt;/li&gt;
+  &lt;li&gt;Ask upperclassmen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Jins&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ask around&lt;/li&gt;
+  &lt;li&gt;use rate my professors&lt;/li&gt;
+  &lt;li&gt;some that sound interesting can be horrible because of the professor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Other stuff&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Most art and music classes are not easy. Some of the appreciation ones are, but just be careful&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 08 Oct 2018 00:00:00 -0500</pubDate>
+        <link>http://acm.truman.edu/acm/2018/10/Classes-for-Spring</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Classes-for-Spring</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
     
       <item>
         <title>Resume Tips</title>
@@ -103,8 +289,8 @@
 &lt;p&gt;&lt;a href=&quot;https://zety.com/blog/computer-science-resume&quot;&gt;Here&lt;/a&gt; is the website i primarily used for my information. Remember, there is no one right way to create a resume as long as it gets the information across without being hard to read&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/acm/2018/09/Resume-Building</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2018/09/Resume-Building</guid>
+        <link>http://acm.truman.edu/acm/2018/09/Resume-Building</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/09/Resume-Building</guid>
         
         
         <category>meeting</category>
@@ -191,8 +377,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/acm/2018/04/Jordan-Butler's-Wrist</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2018/04/Jordan-Butler's-Wrist</guid>
+        <link>http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</guid>
         
         
         <category>meeting</category>
@@ -303,8 +489,8 @@
 
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/acm/2018/04/Bitcoin</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2018/04/Bitcoin</guid>
+        <link>http://acm.truman.edu/acm/2018/04/Bitcoin</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Bitcoin</guid>
         
         
         <category>meeting</category>

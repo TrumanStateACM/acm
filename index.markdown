@@ -13,11 +13,25 @@ Checkout our events tab to see the calendar and upcoming events. Also checkout t
 
 Thank you to all who came to the competition. We had a great turn out and was close till the end. Hope to see you all at the next event. Congratulations for Dat Tran for sucessfully completing all questions and winning.
 
-## General Meeting October 8th 
+# Upcoming: 
+
+## General Meeting October 15<sup>th</sup> 
 
 Threading in Python: we'll start simple with basic concurrency, and then talk about cross-thread communication techniques. Next we'll discuss how Python internally operates, and how this impacts design decisions. Finally, we'll end with a quick discussion of asyncio, a recent and novel addition to Python's concurrency libraries.
 As always, if there is something specific you want to see don't hesitate to contact us at acm@truman.edu
 
-## General Meeting October 15th 
+## Mock Interviews
 
-We will be talking about classes to take and classes to avoid and answer questions about professors here at Truman. Even if you know your schedule, it cant hurt to know what blow off classes to pad senior year with. 
+Another joint adventure with TWiCS. We will be doing mock interviews October 28<sup>th</sup>. If you are interested you can sign up [here][interview]. Each interview will be about an hour with about a half hour of behavioral questions and half hour of tech questions. Hope to see you there.
+
+## CS Bonfire 
+
+Nov 2<sup>nd</sup> (or 3<sup>rd</sup> if weather is bad) 
+ 
+Smores, hot dogs, chips, and soda will be provided by ACM and TWiCS. This is very informal and will be held at Dr. Beck's house. We will meet in front of the sub to carpool. 
+ 
+
+
+
+
+[interview]: https://docs.google.com/spreadsheets/d/1FiJR25jzb8O0iBQsuOHvjy3qT0Tc6RAPPldPe47iPAA/edit#gid=0
