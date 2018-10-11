@@ -47,7 +47,7 @@ R = required by major
 
 A B C = Sections satisfied 
 
-</br>
+<br />
 
 Professors teaching important classes 
 - CS 181 - Beck, Jaiswal
@@ -66,7 +66,7 @@ Notes:
 - Neitzke has also started teaching 330 recently. If you are able to i would also take 330 with Matthews
 - I personally think it would be really fun to take 181 with Beck, but I think you would get just as much out of it with Jaiswal
 
-</br>
+<br />
 
 Secondary courses offered in science and math
 - Stat 290 - Thatcher
@@ -90,14 +90,14 @@ Notes:
     - Bergey and Fielden are great professors
     - Avoid Berke 
 
-</br>
+<br />
 
 LSP classes
 - there are a lot of these classes with many professors for each one
 - use [Rate My Professors][RMP] and look them up to see which are good
 - Professors can make an easy class hard, so look them up
 
-</br>
+<br />
 
 Some specific reqirements
 - Philosophy and religion
@@ -110,7 +110,7 @@ Some specific reqirements
     - Personal health and fitness
     - one of the fitness classes is partially online
     
-</br>
+<br />
 
 Filler Classes
 - Lib 111 Library science (1 credit) - Glaubitz
@@ -119,14 +119,14 @@ Filler Classes
 - PD 312 Basic Aviation (3 Credit) 
 - Ask upperclassmen
 
-</br>
+<br />
 
 Jins
 - ask around
 - use rate my professors
 - some that sound interesting can be horrible because of the professor
 
-</br>
+<br />
 
 Other stuff
 - Most art and music classes are not easy. Some of the appreciation ones are, but just be careful

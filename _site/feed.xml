@@ -3,10 +3,10 @@
   <channel>
     <title>Truman ACM</title>
     <description>The website for Truman State's ACM chapter!</description>
-    <link>http://acm.truman.edu/acm/</link>
-    <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Oct 2018 13:07:57 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Oct 2018 13:07:57 -0500</lastBuildDate>
+    <link>http://localhost:4000/acm/</link>
+    <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Oct 2018 13:09:02 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Oct 2018 13:09:02 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -185,8 +185,8 @@
 
 </description>
         <pubDate>Mon, 08 Oct 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/10/Classes-for-Spring</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Classes-for-Spring</guid>
+        <link>http://localhost:4000/acm/2018/10/Classes-for-Spring</link>
+        <guid isPermaLink="true">http://localhost:4000/acm/2018/10/Classes-for-Spring</guid>
         
         
         <category>meeting</category>
@@ -289,8 +289,8 @@
 &lt;p&gt;&lt;a href=&quot;https://zety.com/blog/computer-science-resume&quot;&gt;Here&lt;/a&gt; is the website i primarily used for my information. Remember, there is no one right way to create a resume as long as it gets the information across without being hard to read&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/09/Resume-Building</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/09/Resume-Building</guid>
+        <link>http://localhost:4000/acm/2018/09/Resume-Building</link>
+        <guid isPermaLink="true">http://localhost:4000/acm/2018/09/Resume-Building</guid>
         
         
         <category>meeting</category>
@@ -377,8 +377,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</guid>
+        <link>http://localhost:4000/acm/2018/04/Jordan-Butler's-Wrist</link>
+        <guid isPermaLink="true">http://localhost:4000/acm/2018/04/Jordan-Butler's-Wrist</guid>
         
         
         <category>meeting</category>
@@ -489,8 +489,8 @@
 
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/04/Bitcoin</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Bitcoin</guid>
+        <link>http://localhost:4000/acm/2018/04/Bitcoin</link>
+        <guid isPermaLink="true">http://localhost:4000/acm/2018/04/Bitcoin</guid>
         
         
         <category>meeting</category>
