@@ -5,8 +5,8 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://localhost:4000/acm/</link>
     <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Oct 2018 13:09:02 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Oct 2018 13:09:02 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Oct 2018 11:26:46 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Oct 2018 11:26:46 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -69,7 +69,7 @@
 
 &lt;p&gt;A B C = Sections satisfied&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Professors teaching important classes&lt;/p&gt;
 &lt;ul&gt;
@@ -92,7 +92,7 @@
   &lt;li&gt;I personally think it would be really fun to take 181 with Beck, but I think you would get just as much out of it with Jaiswal&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Secondary courses offered in science and math&lt;/p&gt;
 &lt;ul&gt;
@@ -126,7 +126,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;LSP classes&lt;/p&gt;
 &lt;ul&gt;
@@ -135,7 +135,7 @@
   &lt;li&gt;Professors can make an easy class hard, so look them up&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Some specific reqirements&lt;/p&gt;
 &lt;ul&gt;
@@ -156,7 +156,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Filler Classes&lt;/p&gt;
 &lt;ul&gt;
@@ -167,7 +167,7 @@
   &lt;li&gt;Ask upperclassmen&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jins&lt;/p&gt;
 &lt;ul&gt;
@@ -176,7 +176,7 @@
   &lt;li&gt;some that sound interesting can be horrible because of the professor&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&amp;lt;/br&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Other stuff&lt;/p&gt;
 &lt;ul&gt;
