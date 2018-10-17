@@ -3,11 +3,158 @@
   <channel>
     <title>Truman ACM</title>
     <description>The website for Truman State's ACM chapter!</description>
-    <link>http://localhost:4000/acm/</link>
-    <atom:link href="http://localhost:4000/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Oct 2018 11:26:46 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Oct 2018 11:26:46 -0500</lastBuildDate>
+    <link>http://acm.truman.edu/acm/</link>
+    <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Oct 2018 11:43:46 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Oct 2018 11:43:46 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Python Concurrency</title>
+        <description>&lt;h2 id=&quot;topic-python-concurrency&quot;&gt;Topic: Python Concurrency&lt;/h2&gt;
+
+&lt;p&gt;python basics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;uses white space instead of brackets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;stuff&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Concurrency&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;used to programs that execute on one thread that runs from start to finish and you can trace it&lt;/li&gt;
+  &lt;li&gt;concurrency allows multiple tasks to be preformed at once&lt;/li&gt;
+  &lt;li&gt;have to wait for threads to finish before we exit the main program
+    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;this all allows for more work to be done in less time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Python has some oddities&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;to pass in arguments you have to make it known you are passing in tuples not other data types
+    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; \\&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,)&lt;/span&gt; \\&lt;span class=&quot;nb&quot;&gt;tuple&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Threading in Python specifically&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Using the basic threading package in python, all threads are run on the same python thread.
+    &lt;ul&gt;
+      &lt;li&gt;this means that three threads in your program are running on the one thread on your computer&lt;/li&gt;
+      &lt;li&gt;this ends up making threading run slower in many scenarios&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the operating system gives the python interpreter a single core and then the python interpreter has to schedule the three threads on its own which can lead to it taking longer than linear execution&lt;/li&gt;
+  &lt;li&gt;what is the use of threading if it slows down the program&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Blocking and non-blocking&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;blocking is basically something that requires the program or thread to wait for something
+    &lt;ul&gt;
+      &lt;li&gt;such as sleeping or waiting for network traffic&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sharing memory&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;when you have shared memory, multiple threads have access to the same data&lt;/li&gt;
+  &lt;li&gt;when the scheduler doesn’t overlap execution of the threads, you can get the right answer
+    &lt;ul&gt;
+      &lt;li&gt;other times you cannot&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;an example is adding and subtracting at the same time in two different times
+    &lt;ul&gt;
+      &lt;li&gt;one run got 0, the desired answer&lt;/li&gt;
+      &lt;li&gt;the second run got -30549&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;we often do not want memory accessed at the same time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Semaphore&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;how do you make sure data isn’t edited concurrently&lt;/li&gt;
+  &lt;li&gt;you often use locks
+```
+self.lock = threading.lock&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;s.lock.aquire()
+stuff
+s.lock.release()&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+- this allows for a thread to deny access to memory while it executes
+- for logic that requires constant locking of data, this can make threading slower than linear due to overhead 
+
+This doesnt sound good. when would you use threads
+- think of accessing a first in first out queue and producer and consumer example(you can google this if you dont know what that is)
+    - the threads should not be looking at the same part of the queue very often
+    - this means, there shouldnt be many times when one thread is locked out of the queue making it much faster to thread it
+- so try to group and minimize the code using the memory
+- if you have a lot of blocking code this is also good
+
+Daemon threads
+- normal threads will keep running after the main thread or main program has ended
+- a Daemon thread will stop running the second the main thread exits
+    - even if its not finished, the thread will close
+    - this is dangerous if say the thread is accessing the file
+
+Multiprocessing
+- This is actually using multiple processors on the computer
+- this allows for true actual concurrency
+- python is no longer using a scheduler
+
+In python threading is different than multiprocessing
+- threading is using one hardware thread while multiprocessing is using multiple hardware threads
+- the python interpreter can only ever run one thread. it is a single threaded processor regardless
+    - to do true multiprocessing, python will open a new interpreter for each processes in your program
+    - a pipe is then created to pass your program to the new interpreter
+        - this can lead to slow downs if your program requires large parameters to be passed
+    - this copying of your program allows a small window a python interpreter is running without your code
+    - it is possible for a malicious program to insert code into this interpreter and run it using the permission of your parent program
+        - if your program is running in sudo, malicious code can get sudo access
+    - this is fixed by using cryptographic handshakes to make sure your code is running and not malicious code
+
+Asyncio
+- scheduler only knows if a thread is blocked or not blocked
+    - this can lead to some overhead of polling the threads 
+- async allows for threads to declare when they are no longer blocking kind of
+```python
+async def name():
+    code to run
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;allows threading without as much overhead&lt;/li&gt;
+  &lt;li&gt;similar thing is there in node.js
+    &lt;ul&gt;
+      &lt;li&gt;kind of where it comes from&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 -0500</pubDate>
+        <link>http://acm.truman.edu/acm/2018/10/Python_Concurrency</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Python_Concurrency</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
     
       <item>
         <title>Classes for Spring 2019</title>
@@ -185,8 +332,8 @@
 
 </description>
         <pubDate>Mon, 08 Oct 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/acm/2018/10/Classes-for-Spring</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2018/10/Classes-for-Spring</guid>
+        <link>http://acm.truman.edu/acm/2018/10/Classes-for-Spring</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Classes-for-Spring</guid>
         
         
         <category>meeting</category>
@@ -289,8 +436,8 @@
 &lt;p&gt;&lt;a href=&quot;https://zety.com/blog/computer-science-resume&quot;&gt;Here&lt;/a&gt; is the website i primarily used for my information. Remember, there is no one right way to create a resume as long as it gets the information across without being hard to read&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/acm/2018/09/Resume-Building</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2018/09/Resume-Building</guid>
+        <link>http://acm.truman.edu/acm/2018/09/Resume-Building</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/09/Resume-Building</guid>
         
         
         <category>meeting</category>
@@ -377,8 +524,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/acm/2018/04/Jordan-Butler's-Wrist</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2018/04/Jordan-Butler's-Wrist</guid>
+        <link>http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</guid>
         
         
         <category>meeting</category>
@@ -489,8 +636,8 @@
 
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/acm/2018/04/Bitcoin</link>
-        <guid isPermaLink="true">http://localhost:4000/acm/2018/04/Bitcoin</guid>
+        <link>http://acm.truman.edu/acm/2018/04/Bitcoin</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Bitcoin</guid>
         
         
         <category>meeting</category>

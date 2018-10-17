@@ -12,7 +12,7 @@ permalink: /robocode/
 
 We are happy to announce a new event we are hosting called Robocode. Get ready to program your own personal robot and destroy your competition, in a friendly manner of course. 
 
-We will be holding an informational meeting about Robocode on the 5<sup>th</sup>. This will technically be part of the event, but a fee will not be charged until we meet on the 10<sup>th</sup> for the actuall battling of the robots. 
+We will be holding an informational meeting about Robocode on the 5<sup>th</sup>. This will technically be part of the event, but a fee will not be charged until we meet on the 10<sup>th</sup> for the actual battling of the robots. 
 
 If you want to get a head start you can download the program [here][robocode]
 

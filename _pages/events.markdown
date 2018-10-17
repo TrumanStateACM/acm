@@ -27,13 +27,11 @@ permalink: /events/
 - Iowa State
 
 
-### [Tiger Hacks][TH]
-- Date: 12-14 October
-- Columbia MO
 
 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=acm%40truman.edu&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=acm%40truman.edu&ctz=America%2FChicago" style="border: 0" width="80%" height="auto" frameborder="0" scrolling="no"></iframe>
 
 
 

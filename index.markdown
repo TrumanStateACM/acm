@@ -9,16 +9,17 @@ This is the website for the Truman State chapter of the Association for Computin
 
 Checkout our events tab to see the calendar and upcoming events. Also checkout the meeting minutes if you missed a meeting and would like to know what was talked about. 
 
-## Coding competition
-
-Thank you to all who came to the competition. We had a great turn out and was close till the end. Hope to see you all at the next event. Congratulations for Dat Tran for sucessfully completing all questions and winning.
 
 # Upcoming: 
 
-## General Meeting October 15<sup>th</sup> 
+## General Meeting October 22<sup>nd</sup> 
 
-Threading in Python: we'll start simple with basic concurrency, and then talk about cross-thread communication techniques. Next we'll discuss how Python internally operates, and how this impacts design decisions. Finally, we'll end with a quick discussion of asyncio, a recent and novel addition to Python's concurrency libraries.
+No meeting. 
 As always, if there is something specific you want to see don't hesitate to contact us at acm@truman.edu
+
+## General Meeting October 29<sup>th</sup>
+
+We will have a meeting but it has yet to be determined what the content will be
 
 ## Mock Interviews
 
@@ -28,10 +29,13 @@ Another joint adventure with TWiCS. We will be doing mock interviews October 28<
 
 Nov 2<sup>nd</sup> (or 3<sup>rd</sup> if weather is bad) 
  
-Smores, hot dogs, chips, and soda will be provided by ACM and TWiCS. This is very informal and will be held at Dr. Beck's house. We will meet in front of the sub to carpool. 
+Smores, hot dogs, chips, and soda will be provided by ACM and TWiCS. This is very informal and will be held at Dr. Beck's house. We will meet in front of the sub at about 7pm to carpool. 
  
+## Robocode
 
-
+Nov 10<sup>th</sup>
+Check [here][RC] for more information
 
 
 [interview]: https://docs.google.com/spreadsheets/d/1FiJR25jzb8O0iBQsuOHvjy3qT0Tc6RAPPldPe47iPAA/edit#gid=0
+[RC]: http://acm.truman.edu/acm/robocode/
