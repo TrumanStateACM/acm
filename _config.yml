@@ -20,7 +20,8 @@ baseurl: "/acm" # the subpath of your site, e.g. /blog
 url: http://acm.truman.edu # the base hostname & protocol for your site
 
 # Social
-githubUsername:
+discord: 2J4zUZ5
+githubUsername: TrumanStateACM 
 twitterUsername:
 dribbbleUsername:
 codepenUsername:
@@ -33,7 +34,7 @@ fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
 markdown: kramdown
-include: [_pages, _site]
+include: [_pages, _site, assets]
 exclude: [CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed

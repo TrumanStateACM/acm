@@ -5,13 +5,37 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://acm.truman.edu/acm/</link>
     <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Oct 2018 11:43:46 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Oct 2018 11:43:46 -0500</lastBuildDate>
+    <pubDate>Mon, 22 Oct 2018 11:54:25 -0500</pubDate>
+    <lastBuildDate>Mon, 22 Oct 2018 11:54:25 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>Python Concurrency</title>
-        <description>&lt;h2 id=&quot;topic-python-concurrency&quot;&gt;Topic: Python Concurrency&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;upcoming-events&quot;&gt;Upcoming Events&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mock Interviews
+    &lt;ul&gt;
+      &lt;li&gt;October 28&lt;/li&gt;
+      &lt;li&gt;Sign up on website&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CS Bonfire
+    &lt;ul&gt;
+      &lt;li&gt;November 2&lt;/li&gt;
+      &lt;li&gt;carpool at sub 7pm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Robocode
+    &lt;ul&gt;
+      &lt;li&gt;Intro meeting November 5&lt;/li&gt;
+      &lt;li&gt;Event November 10&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;topic-python-concurrency&quot;&gt;Topic: Python Concurrency&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/acm/assets/python_con/py_thread.zip&quot;&gt;Here&lt;/a&gt; is the entire zip file of the python programs used in this presentation&lt;/p&gt;
 
 &lt;p&gt;python basics&lt;/p&gt;
 
@@ -87,56 +111,87 @@
 &lt;p&gt;Semaphore&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;how do you make sure data isn’t edited concurrently&lt;/li&gt;
-  &lt;li&gt;you often use locks
-```
-self.lock = threading.lock&lt;/li&gt;
+  &lt;li&gt;you often use locks&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;s.lock.aquire()
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;self.lock = threading.lock
+
+
+
+s.lock.aquire()
 stuff
-s.lock.release()&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-- this allows for a thread to deny access to memory while it executes
-- for logic that requires constant locking of data, this can make threading slower than linear due to overhead 
-
-This doesnt sound good. when would you use threads
-- think of accessing a first in first out queue and producer and consumer example(you can google this if you dont know what that is)
-    - the threads should not be looking at the same part of the queue very often
-    - this means, there shouldnt be many times when one thread is locked out of the queue making it much faster to thread it
-- so try to group and minimize the code using the memory
-- if you have a lot of blocking code this is also good
-
-Daemon threads
-- normal threads will keep running after the main thread or main program has ended
-- a Daemon thread will stop running the second the main thread exits
-    - even if its not finished, the thread will close
-    - this is dangerous if say the thread is accessing the file
-
-Multiprocessing
-- This is actually using multiple processors on the computer
-- this allows for true actual concurrency
-- python is no longer using a scheduler
-
-In python threading is different than multiprocessing
-- threading is using one hardware thread while multiprocessing is using multiple hardware threads
-- the python interpreter can only ever run one thread. it is a single threaded processor regardless
-    - to do true multiprocessing, python will open a new interpreter for each processes in your program
-    - a pipe is then created to pass your program to the new interpreter
-        - this can lead to slow downs if your program requires large parameters to be passed
-    - this copying of your program allows a small window a python interpreter is running without your code
-    - it is possible for a malicious program to insert code into this interpreter and run it using the permission of your parent program
-        - if your program is running in sudo, malicious code can get sudo access
-    - this is fixed by using cryptographic handshakes to make sure your code is running and not malicious code
-
-Asyncio
-- scheduler only knows if a thread is blocked or not blocked
-    - this can lead to some overhead of polling the threads 
-- async allows for threads to declare when they are no longer blocking kind of
-```python
-async def name():
-    code to run
+s.lock.release()
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
 &lt;ul&gt;
+  &lt;li&gt;this allows for a thread to deny access to memory while it executes&lt;/li&gt;
+  &lt;li&gt;for logic that requires constant locking of data, this can make threading slower than linear due to overhead&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This doesnt sound good. when would you use threads&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;think of accessing a first in first out queue and producer and consumer example(you can google this if you dont know what that is)
+    &lt;ul&gt;
+      &lt;li&gt;the threads should not be looking at the same part of the queue very often&lt;/li&gt;
+      &lt;li&gt;this means, there shouldnt be many times when one thread is locked out of the queue making it much faster to thread it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;so try to group and minimize the code using the memory&lt;/li&gt;
+  &lt;li&gt;if you have a lot of blocking code this is also good&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Daemon threads&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;normal threads will keep running after the main thread or main program has ended&lt;/li&gt;
+  &lt;li&gt;a Daemon thread will stop running the second the main thread exits
+    &lt;ul&gt;
+      &lt;li&gt;even if its not finished, the thread will close&lt;/li&gt;
+      &lt;li&gt;this is dangerous if say the thread is accessing the file&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Multiprocessing&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is actually using multiple processors on the computer&lt;/li&gt;
+  &lt;li&gt;this allows for true actual concurrency&lt;/li&gt;
+  &lt;li&gt;python is no longer using a scheduler&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In python threading is different than multiprocessing&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;threading is using one hardware thread while multiprocessing is using multiple hardware threads&lt;/li&gt;
+  &lt;li&gt;the python interpreter can only ever run one thread. it is a single threaded processor regardless
+    &lt;ul&gt;
+      &lt;li&gt;to do true multiprocessing, python will open a new interpreter for each processes in your program&lt;/li&gt;
+      &lt;li&gt;a pipe is then created to pass your program to the new interpreter
+        &lt;ul&gt;
+          &lt;li&gt;this can lead to slow downs if your program requires large parameters to be passed&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;this copying of your program allows a small window a python interpreter is running without your code&lt;/li&gt;
+      &lt;li&gt;it is possible for a malicious program to insert code into this interpreter and run it using the permission of your parent program
+        &lt;ul&gt;
+          &lt;li&gt;if your program is running in sudo, malicious code can get sudo access&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;this is fixed by using cryptographic handshakes to make sure your code is running and not malicious code&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Asyncio&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;scheduler only knows if a thread is blocked or not blocked
+    &lt;ul&gt;
+      &lt;li&gt;this can lead to some overhead of polling the threads&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;async allows for threads to declare when they are no longer blocking kind of
+    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;run&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
   &lt;li&gt;allows threading without as much overhead&lt;/li&gt;
   &lt;li&gt;similar thing is there in node.js
     &lt;ul&gt;
@@ -144,10 +199,11 @@ async def name():
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Mon, 15 Oct 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/10/Python_Concurrency</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Python_Concurrency</guid>
+        <link>http://acm.truman.edu/acm/2018/10/Python-Concurrency</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Python-Concurrency</guid>
         
         
         <category>meeting</category>

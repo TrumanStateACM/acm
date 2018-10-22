@@ -4,8 +4,20 @@ title: "Python Concurrency"
 date: 2018-10-15
 categories: meeting minutes
 ---
-
+## Upcoming Events
+- Mock Interviews
+    - October 28
+    - Sign up on website
+- CS Bonfire
+    - November 2 
+    - carpool at sub 7pm
+- Robocode
+    - Intro meeting November 5
+    - Event November 10
+    
 ## Topic: Python Concurrency
+
+[Here][pzip] is the entire zip file of the python programs used in this presentation
 
 python basics
 
@@ -59,6 +71,7 @@ Sharing memory
 Semaphore 
 - how do you make sure data isn't edited concurrently
 - you often use locks
+
 ```
 self.lock = threading.lock
 
@@ -112,3 +125,6 @@ async def name():
 - allows threading without as much overhead
 - similar thing is there in node.js
     - kind of where it comes from 
+
+    
+[pzip]: {{site.baseurl}}/assets/python_con/py_thread.zip

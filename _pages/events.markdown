@@ -22,10 +22,6 @@ permalink: /events/
 - Information meeting: 5 November 
 - Pre-Register [here][prereg]
 
-### [Hackisu][HI]
-- Date: 19-21 October
-- Iowa State
-
 
 
 

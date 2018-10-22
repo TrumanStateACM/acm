@@ -12,14 +12,14 @@ Checkout our events tab to see the calendar and upcoming events. Also checkout t
 
 # Upcoming: 
 
-## General Meeting October 22<sup>nd</sup> 
+## General Meeting October 29<sup>th</sup> 
 
 No meeting. 
 As always, if there is something specific you want to see don't hesitate to contact us at acm@truman.edu
 
-## General Meeting October 29<sup>th</sup>
+## General Meeting November 12<sup>th</sup>
 
-We will have a meeting but it has yet to be determined what the content will be
+Bindner will be giving a presentation on how to use git. This should be very useful and you can bring a laptop and a github account or similar service to test out the commands of git. You can do a quick search for how to install git on your machine. There are git install instructions for Mac, Linux, and Windows
 
 ## Mock Interviews
 

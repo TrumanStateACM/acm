@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Python Concurrency</title>
-    <meta name="description" content="Topic: Python Concurrency">
+    <meta name="description" content="Upcoming Events  Mock Interviews          October 28      Sign up on website        CS Bonfire          November 2      carpool at sub 7pm        Robocode   ...">
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700|Roboto+Mono:400,500' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="/acm/css/main.css">
-    <link rel="canonical" href="http://acm.truman.edu/acm/2018/10/Python_Concurrency">
+    <link rel="canonical" href="http://acm.truman.edu/acm/2018/10/Python-Concurrency">
     <link rel="alternate" type="application/rss+xml" title="Truman ACM" href="http://acm.truman.edu/acm/feed.xml">
 </head>
 
@@ -31,11 +31,36 @@
   <header class="c-header c-article__header">
     <div class="u-container">
       <h1 class="c-header__title">Python Concurrency</h1>
+      <marquee direction="right"><img src="/acm/assets/img/acmlogo.svg" width="65%" height="auto"></marquee>
     </div>
   </header>
 
   <div class="c-article__main">
-    <h2 id="topic-python-concurrency">Topic: Python Concurrency</h2>
+    <h2 id="upcoming-events">Upcoming Events</h2>
+<ul>
+  <li>Mock Interviews
+    <ul>
+      <li>October 28</li>
+      <li>Sign up on website</li>
+    </ul>
+  </li>
+  <li>CS Bonfire
+    <ul>
+      <li>November 2</li>
+      <li>carpool at sub 7pm</li>
+    </ul>
+  </li>
+  <li>Robocode
+    <ul>
+      <li>Intro meeting November 5</li>
+      <li>Event November 10</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="topic-python-concurrency">Topic: Python Concurrency</h2>
+
+<p><a href="/acm/assets/python_con/py_thread.zip">Here</a> is the entire zip file of the python programs used in this presentation</p>
 
 <p>python basics</p>
 
@@ -111,56 +136,87 @@
 <p>Semaphore</p>
 <ul>
   <li>how do you make sure data isn’t edited concurrently</li>
-  <li>you often use locks
-```
-self.lock = threading.lock</li>
+  <li>you often use locks</li>
 </ul>
 
-<p>s.lock.aquire()
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>self.lock = threading.lock
+
+
+
+s.lock.aquire()
 stuff
-s.lock.release()</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-- this allows for a thread to deny access to memory while it executes
-- for logic that requires constant locking of data, this can make threading slower than linear due to overhead 
-
-This doesnt sound good. when would you use threads
-- think of accessing a first in first out queue and producer and consumer example(you can google this if you dont know what that is)
-    - the threads should not be looking at the same part of the queue very often
-    - this means, there shouldnt be many times when one thread is locked out of the queue making it much faster to thread it
-- so try to group and minimize the code using the memory
-- if you have a lot of blocking code this is also good
-
-Daemon threads
-- normal threads will keep running after the main thread or main program has ended
-- a Daemon thread will stop running the second the main thread exits
-    - even if its not finished, the thread will close
-    - this is dangerous if say the thread is accessing the file
-
-Multiprocessing
-- This is actually using multiple processors on the computer
-- this allows for true actual concurrency
-- python is no longer using a scheduler
-
-In python threading is different than multiprocessing
-- threading is using one hardware thread while multiprocessing is using multiple hardware threads
-- the python interpreter can only ever run one thread. it is a single threaded processor regardless
-    - to do true multiprocessing, python will open a new interpreter for each processes in your program
-    - a pipe is then created to pass your program to the new interpreter
-        - this can lead to slow downs if your program requires large parameters to be passed
-    - this copying of your program allows a small window a python interpreter is running without your code
-    - it is possible for a malicious program to insert code into this interpreter and run it using the permission of your parent program
-        - if your program is running in sudo, malicious code can get sudo access
-    - this is fixed by using cryptographic handshakes to make sure your code is running and not malicious code
-
-Asyncio
-- scheduler only knows if a thread is blocked or not blocked
-    - this can lead to some overhead of polling the threads 
-- async allows for threads to declare when they are no longer blocking kind of
-```python
-async def name():
-    code to run
+s.lock.release()
 </code></pre></div></div>
+
 <ul>
+  <li>this allows for a thread to deny access to memory while it executes</li>
+  <li>for logic that requires constant locking of data, this can make threading slower than linear due to overhead</li>
+</ul>
+
+<p>This doesnt sound good. when would you use threads</p>
+<ul>
+  <li>think of accessing a first in first out queue and producer and consumer example(you can google this if you dont know what that is)
+    <ul>
+      <li>the threads should not be looking at the same part of the queue very often</li>
+      <li>this means, there shouldnt be many times when one thread is locked out of the queue making it much faster to thread it</li>
+    </ul>
+  </li>
+  <li>so try to group and minimize the code using the memory</li>
+  <li>if you have a lot of blocking code this is also good</li>
+</ul>
+
+<p>Daemon threads</p>
+<ul>
+  <li>normal threads will keep running after the main thread or main program has ended</li>
+  <li>a Daemon thread will stop running the second the main thread exits
+    <ul>
+      <li>even if its not finished, the thread will close</li>
+      <li>this is dangerous if say the thread is accessing the file</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Multiprocessing</p>
+<ul>
+  <li>This is actually using multiple processors on the computer</li>
+  <li>this allows for true actual concurrency</li>
+  <li>python is no longer using a scheduler</li>
+</ul>
+
+<p>In python threading is different than multiprocessing</p>
+<ul>
+  <li>threading is using one hardware thread while multiprocessing is using multiple hardware threads</li>
+  <li>the python interpreter can only ever run one thread. it is a single threaded processor regardless
+    <ul>
+      <li>to do true multiprocessing, python will open a new interpreter for each processes in your program</li>
+      <li>a pipe is then created to pass your program to the new interpreter
+        <ul>
+          <li>this can lead to slow downs if your program requires large parameters to be passed</li>
+        </ul>
+      </li>
+      <li>this copying of your program allows a small window a python interpreter is running without your code</li>
+      <li>it is possible for a malicious program to insert code into this interpreter and run it using the permission of your parent program
+        <ul>
+          <li>if your program is running in sudo, malicious code can get sudo access</li>
+        </ul>
+      </li>
+      <li>this is fixed by using cryptographic handshakes to make sure your code is running and not malicious code</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Asyncio</p>
+<ul>
+  <li>scheduler only knows if a thread is blocked or not blocked
+    <ul>
+      <li>this can lead to some overhead of polling the threads</li>
+    </ul>
+  </li>
+  <li>async allows for threads to declare when they are no longer blocking kind of
+    <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">async</span> <span class="k">def</span> <span class="nf">name</span><span class="p">():</span>
+  <span class="n">code</span> <span class="n">to</span> <span class="n">run</span>
+</code></pre></div>    </div>
+  </li>
   <li>allows threading without as much overhead</li>
   <li>similar thing is there in node.js
     <ul>
@@ -168,6 +224,7 @@ async def name():
     </ul>
   </li>
 </ul>
+
 
 
   </div>
@@ -178,10 +235,8 @@ async def name():
   <div class="u-container c-footer__container">
     <p>&copy; Truman ACM 2018</p>
     <p>
-      
-      
-      
-      
+      <a href="https://discordapp.com/invite/2J4zUZ5">Discord</a>
+      <a href="https://github.com/TrumanStateACM">Github</a>
     </p>
   </div>
 </footer>
