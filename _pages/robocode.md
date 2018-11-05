@@ -22,7 +22,15 @@ If you want to get a head start you can download the program [here][robocode]
 	- Prizes for each
 - Try not to copy and paste peeoples robots. You should mostly understand the code that you add to the robot
 
+### Helpful Links
+- [Robocode CS project][RCP]. This is from another school, but could help get through some basics. 
+- [Robocode API Documentation][api]
+- [Tutorials][AT]. These direct to archived pages, not all links work. This is very good for understanding events and what all events come with robocode
+- [Robowiki][RW]. This one is probably self explanitory
 
 
 [robocode]: https://robocode.sourceforge.io/
 [prereg]: https://docs.google.com/forms/d/e/1FAIpQLSchsn5GW4XCcQAdmWlcy_RlRr8HXViZeXF0hDagANh5dkHEhQ/viewform
+[RCP]: http://mark.random-article.com/weber/java/robocode/
+[api]: https://robocode.sourceforge.io/docs/robocode/
+[RW]: http://robowiki.net/w/index.php?title=Main_Page
