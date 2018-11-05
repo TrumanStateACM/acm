@@ -6,13 +6,10 @@ permalink: /events/
 
 # Here we will post upcoming events
 
-### Mock Interviews
-- Date: 28 October
-- Violet Hall
-- Sign-Up [here][interview]
+
 
 ### CS Bonfire
-- Date: 2 October 
+- Date: 9 November
 - Beck's House
 - Food will be provided
 - Carpool at the sub
@@ -21,6 +18,9 @@ permalink: /events/
 - Date: 10 November
 - Information meeting: 5 November 
 - Pre-Register [here][prereg]
+
+### Club Elections
+- Date: 3 December
 
 
 
@@ -41,5 +41,4 @@ permalink: /events/
 [BI]: https://bsidesiowa.com
 [HUI]: https://bigdata.uiowa.edu/
 [TH]: http://tigerhacks.missouri.edu/
-[interview]: https://docs.google.com/spreadsheets/d/1FiJR25jzb8O0iBQsuOHvjy3qT0Tc6RAPPldPe47iPAA/edit#gid=0
 [prereg]: https://docs.google.com/forms/d/e/1FAIpQLSchsn5GW4XCcQAdmWlcy_RlRr8HXViZeXF0hDagANh5dkHEhQ/viewform
