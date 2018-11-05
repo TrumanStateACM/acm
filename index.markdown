@@ -23,7 +23,7 @@ Bindner will be giving a presentation on how to use git. This should be very use
 
 ## CS Bonfire 
 
-Nov 9<sup>nd</sup> 
+Nov 9<sup>th</sup> 
  
 Smores, hot dogs, chips, and soda will be provided by ACM and TWiCS. This is very informal and will be held at Dr. Beck's house. We will meet in front of the sub at about 7pm to carpool. 
  
