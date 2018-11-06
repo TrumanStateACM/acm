@@ -28,6 +28,7 @@ If you want to get a head start you can download the program [here][robocode]
 - [Robocode API Documentation][api]
 - [Tutorials][AT]. These direct to archived pages, not all links work. This is very good for understanding events and what all events come with robocode
 - [Robowiki][RW]. This one is probably self explanitory
+- [Meeting minutes][MM] for the info meeting
 
 
 [robocode]: https://robocode.sourceforge.io/
@@ -36,3 +37,4 @@ If you want to get a head start you can download the program [here][robocode]
 [api]: https://robocode.sourceforge.io/docs/robocode/
 [RW]: http://robowiki.net/w/index.php?title=Main_Page
 [AT]: http://www.eng.auburn.edu/~sealscd/AI/robocode/
+[MM]: {{site.baseurl}}/2018/11/Robocode-Info 
