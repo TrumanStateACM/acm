@@ -5,9 +5,114 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://acm.truman.edu/acm/</link>
     <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Nov 2018 16:47:27 -0600</pubDate>
-    <lastBuildDate>Mon, 05 Nov 2018 16:47:27 -0600</lastBuildDate>
+    <pubDate>Mon, 05 Nov 2018 19:42:37 -0600</pubDate>
+    <lastBuildDate>Mon, 05 Nov 2018 19:42:37 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Robocode Info</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bonfire
+    &lt;ul&gt;
+      &lt;li&gt;Nov 9th now&lt;/li&gt;
+      &lt;li&gt;Carpool 7pm at the sub&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Google analytics
+    &lt;ul&gt;
+      &lt;li&gt;Now we can view how many people use the website&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Elections
+    &lt;ul&gt;
+      &lt;li&gt;get prepared to run for a postition&lt;/li&gt;
+      &lt;li&gt;find others that are interested&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;robocode&quot;&gt;Robocode&lt;/h3&gt;
+
+&lt;p&gt;About&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Program robots in java&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Installation&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Must have java virtual machine installed&lt;/li&gt;
+  &lt;li&gt;Download from website&lt;/li&gt;
+  &lt;li&gt;Pretty simple&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Run test battles&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Battle -&amp;gt; new&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Creating your robot&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Robot menu, then select Source Editor.&lt;/li&gt;
+  &lt;li&gt;When the editor window comes up, click on the File menu, then select New Robot.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not going to go through the specifics of how to create a whole robot. There are lots of resources out there&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tutorials&lt;/li&gt;
+  &lt;li&gt;Api documentation&lt;/li&gt;
+  &lt;li&gt;some on robocode page our acm website&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A lot of the development of a robot is the implemetation of event handlers&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you dont know what these are dont worry, you can use the ones that already come with it or just look up how the others work.&lt;/li&gt;
+  &lt;li&gt;events basically interrupt the flow of the program
+    &lt;ul&gt;
+      &lt;li&gt;this can be things such as seeing a robot which makes you want to fire at it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;You can also look at other robots and see how they are set up. This does not mean copy from them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submitting your robot&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create it and save when done&lt;/li&gt;
+  &lt;li&gt;Exit the editor and select robot&lt;/li&gt;
+  &lt;li&gt;Select package robot or team&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Scoring&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Scoring is based on many things
+    &lt;ul&gt;
+      &lt;li&gt;How many died before you&lt;/li&gt;
+      &lt;li&gt;How many times you hit someone&lt;/li&gt;
+      &lt;li&gt;So just living is not good enough&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Two tries per division&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;We will run your bots, most likely all at once against eachother&lt;/li&gt;
+  &lt;li&gt;then take an hour break to revise and edit the bots if you choose.&lt;/li&gt;
+  &lt;li&gt;Then run them against each other again.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Each try has a set amount of rounds rounds inside it&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Nov 2018 00:00:00 -0600</pubDate>
+        <link>http://acm.truman.edu/acm/2018/11/Robocode-Info</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/11/Robocode-Info</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
     
       <item>
         <title>Python Concurrency</title>
