@@ -22,7 +22,7 @@ If you want to get a head start you can download the program [here][robocode]
 	- Prizes for each
 - Try not to copy and paste peoples robots. You should mostly understand the code that you add to the robot
 - Create your robot before the competition
-- submit robot jar file to acm@truman.edu but 12:30 on November 10th
+- submit robot jar file to acm@truman.edu by 12:30 on November 10th
 
 ### Helpful Links
 - [Robocode CS project][RCP]. This is from another school, but could help get through some basics. 
