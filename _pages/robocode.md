@@ -20,15 +20,21 @@ If you want to get a head start you can download the program [here][robocode]
 - Teams of 1-4
 - Two tiers beginner and regular
 	- Prizes for each
-- Try not to copy and paste peeoples robots. You should mostly understand the code that you add to the robot
+- Try not to copy and paste peoples robots. You should mostly understand the code that you add to the robot
 - Create your robot before the competition
 
 ### Helpful Links
 - [Robocode CS project][RCP]. This is from another school, but could help get through some basics. 
 - [Robocode API Documentation][api]
 - [Tutorials][AT]. These direct to archived pages, not all links work. This is very good for understanding events and what all events come with robocode
-- [Robowiki][RW]. This one is probably self explanitory
+- [Robowiki][RW]. This one is probably self explanatory
 - [Meeting minutes][MM] for the info meeting
+
+### Itinerary 
+- 12:00 Sign in starts
+- 12:30-12:45 First battles start
+- 1:00-1:15 Revise robots
+- 2:00-2:15 Second battles start
 
 
 [robocode]: https://robocode.sourceforge.io/
