@@ -12,20 +12,18 @@ Checkout our events tab to see the calendar and upcoming events. Also checkout t
 
 # Upcoming:  
 
-## Robocode Meeting November 5<sup>th</sup>
-
-Find out what Robocode is. You dont have to commit to participating, just come to find out how to use the software and create your own robot. 
 
 ## General Meeting November 12<sup>th</sup>
 
 Bindner will be giving a presentation on how to use git. This should be very useful and you can bring a laptop and a github account or similar service to test out the commands of git. You can do a quick search for how to install git on your machine. There are git install instructions for Mac, Linux, and Windows
 
+## General Meeting November 19<sup>th</sup>
+
+No meeting, Thanksgiving break. Enjoy the week off. 
 
 ## CS Bonfire 
 
-Nov 9<sup>th</sup> 
- 
-Smores, hot dogs, chips, and soda will be provided by ACM and TWiCS. This is very informal and will be held at Dr. Beck's house. We will meet in front of the sub at about 7pm to carpool. 
+Unfortunately we had to cancel the bonfire for this semester due to weather. Hope to see you next semester!
  
 ## Robocode
 
