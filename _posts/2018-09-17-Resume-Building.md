@@ -15,6 +15,8 @@ categories: meeting minutes
 
 ## Topic: resumes 
 
+<!--more-->
+
 Contact info
 - Keep it short and simple 
     - Name 

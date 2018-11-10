@@ -20,6 +20,8 @@ categories: meeting minutes
 
 ### Topic: Classes
 
+<!--more-->
+
 [Registration dates][RD]
 
 [General Requirements for CS Degree][CSD]

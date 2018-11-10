@@ -28,4 +28,4 @@ Unfortunately we had to cancel the bonfire for this semester due to weather. Hop
 
 
 [interview]: https://docs.google.com/spreadsheets/d/1FiJR25jzb8O0iBQsuOHvjy3qT0Tc6RAPPldPe47iPAA/edit#gid=0
-[RC]: http://acm.truman.edu/acm/robocode/
+[RC]: {{site.baseurl}}/robocode/

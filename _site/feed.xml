@@ -3,10 +3,10 @@
   <channel>
     <title>Truman ACM</title>
     <description>The website for Truman State's ACM chapter!</description>
-    <link>http://acm.truman.edu/acm/</link>
-    <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Nov 2018 13:58:22 -0600</pubDate>
-    <lastBuildDate>Sat, 10 Nov 2018 13:58:22 -0600</lastBuildDate>
+    <link>http://acm.truman.edu//</link>
+    <atom:link href="http://acm.truman.edu//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 10 Nov 2018 15:01:56 -0600</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 15:01:56 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -33,6 +33,8 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;robocode&quot;&gt;Robocode&lt;/h3&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;About&lt;/p&gt;
 &lt;ul&gt;
@@ -104,8 +106,8 @@
 
 </description>
         <pubDate>Mon, 05 Nov 2018 00:00:00 -0600</pubDate>
-        <link>http://acm.truman.edu/acm/2018/11/Robocode-Info</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/11/Robocode-Info</guid>
+        <link>http://acm.truman.edu//2018/11/Robocode-Info</link>
+        <guid isPermaLink="true">http://acm.truman.edu//2018/11/Robocode-Info</guid>
         
         
         <category>meeting</category>
@@ -140,7 +142,9 @@
 
 &lt;h2 id=&quot;topic-python-concurrency&quot;&gt;Topic: Python Concurrency&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/acm/assets/python_con/py_thread.zip&quot;&gt;Here&lt;/a&gt; is the entire zip file of the python programs used in this presentation&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a href=&quot;//assets/python_con/py_thread.zip&quot;&gt;Here&lt;/a&gt; is the entire zip file of the python programs used in this presentation&lt;/p&gt;
 
 &lt;p&gt;python basics&lt;/p&gt;
 
@@ -307,8 +311,8 @@ s.lock.release()
 
 </description>
         <pubDate>Mon, 15 Oct 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/10/Python-Concurrency</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Python-Concurrency</guid>
+        <link>http://acm.truman.edu//2018/10/Python-Concurrency</link>
+        <guid isPermaLink="true">http://acm.truman.edu//2018/10/Python-Concurrency</guid>
         
         
         <category>meeting</category>
@@ -347,6 +351,8 @@ s.lock.release()
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;topic-classes&quot;&gt;Topic: Classes&lt;/h3&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.truman.edu/registrar/schedules-and-calendars/registration-dates-spring/&quot;&gt;Registration dates&lt;/a&gt;&lt;/p&gt;
 
@@ -493,8 +499,8 @@ s.lock.release()
 
 </description>
         <pubDate>Mon, 08 Oct 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/10/Classes-for-Spring</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Classes-for-Spring</guid>
+        <link>http://acm.truman.edu//2018/10/Classes-for-Spring</link>
+        <guid isPermaLink="true">http://acm.truman.edu//2018/10/Classes-for-Spring</guid>
         
         
         <category>meeting</category>
@@ -522,6 +528,8 @@ s.lock.release()
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;topic-resumes&quot;&gt;Topic: resumes&lt;/h2&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;Contact info&lt;/p&gt;
 &lt;ul&gt;
@@ -597,8 +605,8 @@ s.lock.release()
 &lt;p&gt;&lt;a href=&quot;https://zety.com/blog/computer-science-resume&quot;&gt;Here&lt;/a&gt; is the website i primarily used for my information. Remember, there is no one right way to create a resume as long as it gets the information across without being hard to read&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/09/Resume-Building</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/09/Resume-Building</guid>
+        <link>http://acm.truman.edu//2018/09/Resume-Building</link>
+        <guid isPermaLink="true">http://acm.truman.edu//2018/09/Resume-Building</guid>
         
         
         <category>meeting</category>
@@ -622,6 +630,8 @@ s.lock.release()
 &lt;p&gt;Jordan Butler&lt;/p&gt;
 
 &lt;p&gt;Founded company: Thrust Games&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;First game&lt;/p&gt;
 &lt;ul&gt;
@@ -685,8 +695,8 @@ s.lock.release()
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</guid>
+        <link>http://acm.truman.edu//2018/04/Jordan-Butler's-Wrist</link>
+        <guid isPermaLink="true">http://acm.truman.edu//2018/04/Jordan-Butler's-Wrist</guid>
         
         
         <category>meeting</category>
@@ -705,6 +715,8 @@ s.lock.release()
 
 &lt;h3 id=&quot;topic&quot;&gt;Topic&lt;/h3&gt;
 &lt;p&gt;Bindner talked about Bitcoin.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Mentioned that passwords for sensitive information should not be the same as other websites.
@@ -797,8 +809,8 @@ s.lock.release()
 
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 -0500</pubDate>
-        <link>http://acm.truman.edu/acm/2018/04/Bitcoin</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Bitcoin</guid>
+        <link>http://acm.truman.edu//2018/04/Bitcoin</link>
+        <guid isPermaLink="true">http://acm.truman.edu//2018/04/Bitcoin</guid>
         
         
         <category>meeting</category>

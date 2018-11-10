@@ -17,6 +17,8 @@ categories: meeting minutes
     
 ## Topic: Python Concurrency
 
+<!--more-->
+
 [Here][pzip] is the entire zip file of the python programs used in this presentation
 
 python basics

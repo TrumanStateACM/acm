@@ -20,6 +20,8 @@ Jordan Butler
 
 Founded company: Thrust Games
 
+<!--more-->
+
 First game
    - Shoot em up
    - Basic game of spaceship shooting other ships

@@ -14,15 +14,11 @@ permalink: /events/
 - Food will be provided
 - Carpool at the sub
 
-### Robocode 
-- Date: 10 November
-- Information meeting: 5 November 
-- Pre-Register [here][prereg]
-
 ### Club Elections
 - Date: 3 December
 
-
+### [Hackathon 2019][HT]
+- Date: late February or March
 
 
 
@@ -34,7 +30,7 @@ permalink: /events/
 
    
 
-[HT]: /acm/hacktruman/index.html
+[HT]: {{site.baseurl}}/hacktruman/
 [HI]: https://hackisu.org
 [SH]: https://hackathon.mst.edu
 [RT]: https://www.eventbrite.com/e/shamhacks-2018-tickets-39820147132

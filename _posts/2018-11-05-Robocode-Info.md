@@ -19,6 +19,8 @@ categories: meeting minutes
 
 ### Robocode
 
+<!--more-->
+
 About
 - Program robots in java
 
