@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: HackTruman 2018
+title: HackTruman 2019
 permalink: /hacktruman/
 
 ---
