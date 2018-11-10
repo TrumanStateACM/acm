@@ -25,10 +25,6 @@ No meeting, Thanksgiving break. Enjoy the week off.
 
 Unfortunately we had to cancel the bonfire for this semester due to weather. Hope to see you next semester!
  
-## Robocode
-
-Nov 10<sup>th</sup>
-Check [here][RC] for more information
 
 
 [interview]: https://docs.google.com/spreadsheets/d/1FiJR25jzb8O0iBQsuOHvjy3qT0Tc6RAPPldPe47iPAA/edit#gid=0

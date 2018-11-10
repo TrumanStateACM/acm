@@ -1,28 +1,23 @@
 ---
 
 layout: page
-title: Robocode 2018
+title: Robocode 2019
 permalink: /robocode/
 
 ---
 
-# Robocode is here, 10<sup>th</sup> of November. 12pm in VH 1236 
+# Start getting your robots ready for next years Robocode
 
-### Pre-register [here][prereg] (This is not a commitment, we just want to get an idea of how many will be there)
-
-We are happy to announce a new event we are hosting called Robocode. Get ready to program your own personal robot and destroy your competition, in a friendly manner of course. 
-
-Make sure to create your robot before arriving at the event as there will be no time given at the event to create it. Remember you dont need much experience at all to compete. 
+Remember you don't need much experience to make a robot. Start checking out links and tutorials and you will be ready to battle in no time.  
 
 If you want to get a head start you can download the program [here][robocode]
 
 ### Rules
 - Teams of 1-4
 - Two tiers beginner and regular
-	- Prizes for each
 - Try not to copy and paste peoples robots. You should mostly understand the code that you add to the robot
 - Create your robot before the competition
-- submit robot jar file to acm@truman.edu by 12:30 on November 10th
+- submit robot as a jar file
 
 ### Helpful Links
 - [Robocode CS project][RCP]. This is from another school, but could help get through some basics. 
@@ -30,12 +25,6 @@ If you want to get a head start you can download the program [here][robocode]
 - [Tutorials][AT]. These direct to archived pages, not all links work. This is very good for understanding events and what all events come with robocode
 - [Robowiki][RW]. This one is probably self explanatory
 - [Meeting minutes][MM] for the info meeting
-
-### Itinerary 
-- 12:00 Sign in starts
-- 12:30-12:45 First battles start
-- 1:00-1:15 Revise robots
-- 2:00-2:15 Second battles start
 
 
 [robocode]: https://robocode.sourceforge.io/

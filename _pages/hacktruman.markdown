@@ -6,9 +6,6 @@ permalink: /hacktruman/
 
 ---
 
-# HackTruman 2018 Announced for April 6<sup>th</sup>-8<sup>th</sup>!
+# HackTruman 2019 is coming. Our dates will be in late February or late March.
 
-Truman ACM is happy to announce its third annual hackathon. Our previous hackathon went very well and we hope to have an even bigger turnout this year. Keep watching for updates as they come along. 
-
-
-
+Start looking for more info being added to this page in the future such as possible prizes, rules, sponsors and more.  
