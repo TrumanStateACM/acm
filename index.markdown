@@ -25,7 +25,10 @@ No meeting, Thanksgiving break. Enjoy the week off.
 
 Unfortunately we had to cancel the bonfire for this semester due to weather. Hope to see you next semester!
  
+## Elections December 3<sup>rd</sup>
 
+If you are interested in running for a position, go ahead and fill out [this][EF] form to give us an idea of who will be running. 
 
 [interview]: https://docs.google.com/spreadsheets/d/1FiJR25jzb8O0iBQsuOHvjy3qT0Tc6RAPPldPe47iPAA/edit#gid=0
 [RC]: {{site.baseurl}}/robocode/
+[EF]: https://docs.google.com/forms/d/e/1FAIpQLSeTVlQn84IrA0cnextpUnzEsA4070Ef6j-V9AKdGY6RVVhgNg/viewform

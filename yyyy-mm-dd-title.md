@@ -10,4 +10,5 @@ categories: meeting minutes
 ### Announcements 
 
 
-### Topic
+### Topic: 
+<!--more-->
