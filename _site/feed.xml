@@ -5,9 +5,53 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://acm.truman.edu/acm/</link>
     <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Nov 2018 18:05:32 -0600</pubDate>
-    <lastBuildDate>Sun, 11 Nov 2018 18:05:32 -0600</lastBuildDate>
+    <pubDate>Mon, 12 Nov 2018 19:19:46 -0600</pubDate>
+    <lastBuildDate>Mon, 12 Nov 2018 19:19:46 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Intro to Git</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Last real meeting of the semester&lt;/li&gt;
+  &lt;li&gt;Last meeting will be December 3rd
+    &lt;ul&gt;
+      &lt;li&gt;should be short and sweet&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;topic-introduction-to-git&quot;&gt;Topic: Introduction to Git&lt;/h3&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ice.truman.edu/~dbindner/git/git-notes.pdf&quot;&gt;Here&lt;/a&gt; is where you can find all the notes on git, thanks to Dr. Bindner&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Git is a collaborative tool
+    &lt;ul&gt;
+      &lt;li&gt;it allows multiple people work on a project and not worry that you will mess up your project&lt;/li&gt;
+      &lt;li&gt;If you or a partner messes up, you can go back to a working version of it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Git is also useful for personal projects
+    &lt;ul&gt;
+      &lt;li&gt;it allows you to track what you have done&lt;/li&gt;
+      &lt;li&gt;allows you to try things without worrying about breaking your project&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 -0600</pubDate>
+        <link>http://acm.truman.edu/acm/2018/11/Intro-to-git</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/11/Intro-to-git</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
     
       <item>
         <title>Robocode Info</title>
