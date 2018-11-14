@@ -13,18 +13,14 @@ Checkout our events tab to see the calendar and upcoming events. Also checkout t
 # Upcoming:  
 
 
-## General Meeting November 12<sup>th</sup>
-
-Bindner will be giving a presentation on how to use git. This should be very useful and you can bring a laptop and a github account or similar service to test out the commands of git. You can do a quick search for how to install git on your machine. There are git install instructions for Mac, Linux, and Windows
-
 ## General Meeting November 19<sup>th</sup>
 
 No meeting, Thanksgiving break. Enjoy the week off. 
 
-## CS Bonfire 
+## General Meeting November 26<sup>th</sup>
 
-Unfortunately we had to cancel the bonfire for this semester due to weather. Hope to see you next semester!
- 
+We will be meeting in first floor Ryle lounge at the normal meeting time to hang out and eat pizza. We will have a Wii with smash and some other games. You are not obligated to stay for any length of time. This will be a very informal meeting just to hang out. 
+
 ## Elections December 3<sup>rd</sup>
 
 If you are interested in running for a position, go ahead and fill out [this][EF] form to give us an idea of who will be running. 
