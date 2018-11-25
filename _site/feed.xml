@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Truman ACM</title>
+    <description>The website for Truman State's ACM chapter!</description>
+    <link>http://acm.truman.edu/acm/</link>
+    <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 25 Nov 2018 00:14:45 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Nov 2018 00:14:45 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Intro to Git</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Last real meeting of the semester&lt;/li&gt;
+  &lt;li&gt;Last meeting will be December 3rd
+    &lt;ul&gt;
+      &lt;li&gt;should be short and sweet&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;topic-introduction-to-git&quot;&gt;Topic: Introduction to Git&lt;/h3&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ice.truman.edu/~dbindner/git/git-notes.pdf&quot;&gt;Here&lt;/a&gt; is where you can find all the notes on git, thanks to Dr. Bindner&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Git is a collaborative tool
+    &lt;ul&gt;
+      &lt;li&gt;it allows multiple people work on a project and not worry that you will mess up your project&lt;/li&gt;
+      &lt;li&gt;If you or a partner messes up, you can go back to a working version of it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Git is also useful for personal projects
+    &lt;ul&gt;
+      &lt;li&gt;it allows you to track what you have done&lt;/li&gt;
+      &lt;li&gt;allows you to try things without worrying about breaking your project&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://acm.truman.edu/acm/2018/11/Intro-to-git</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/11/Intro-to-git</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
+    
+      <item>
+        <title>Robocode Info</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bonfire
+    &lt;ul&gt;
+      &lt;li&gt;Nov 9th now&lt;/li&gt;
+      &lt;li&gt;Carpool 7pm at the sub&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Google analytics
+    &lt;ul&gt;
+      &lt;li&gt;Now we can view how many people use the website&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Elections
+    &lt;ul&gt;
+      &lt;li&gt;get prepared to run for a postition&lt;/li&gt;
+      &lt;li&gt;find others that are interested&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;robocode&quot;&gt;Robocode&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;About&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Program robots in java&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Installation&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Must have java virtual machine installed&lt;/li&gt;
+  &lt;li&gt;Download from website&lt;/li&gt;
+  &lt;li&gt;Pretty simple&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Run test battles&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Battle -&amp;gt; new&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Creating your robot&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Robot menu, then select Source Editor.&lt;/li&gt;
+  &lt;li&gt;When the editor window comes up, click on the File menu, then select New Robot.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not going to go through the specifics of how to create a whole robot. There are lots of resources out there&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tutorials&lt;/li&gt;
+  &lt;li&gt;Api documentation&lt;/li&gt;
+  &lt;li&gt;some on robocode page our acm website&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A lot of the development of a robot is the implemetation of event handlers&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you dont know what these are dont worry, you can use the ones that already come with it or just look up how the others work.&lt;/li&gt;
+  &lt;li&gt;events basically interrupt the flow of the program
+    &lt;ul&gt;
+      &lt;li&gt;this can be things such as seeing a robot which makes you want to fire at it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;You can also look at other robots and see how they are set up. This does not mean copy from them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submitting your robot&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create it and save when done&lt;/li&gt;
+  &lt;li&gt;Exit the editor and select robot&lt;/li&gt;
+  &lt;li&gt;Select package robot or team&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Scoring&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Scoring is based on many things
+    &lt;ul&gt;
+      &lt;li&gt;How many died before you&lt;/li&gt;
+      &lt;li&gt;How many times you hit someone&lt;/li&gt;
+      &lt;li&gt;So just living is not good enough&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Two tries per division&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;We will run your bots, most likely all at once against eachother&lt;/li&gt;
+  &lt;li&gt;then take an hour break to revise and edit the bots if you choose.&lt;/li&gt;
+  &lt;li&gt;Then run them against each other again.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Each try has a set amount of rounds rounds inside it&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://acm.truman.edu/acm/2018/11/Robocode-Info</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/11/Robocode-Info</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
+    
+      <item>
+        <title>Python Concurrency</title>
+        <description>&lt;h2 id=&quot;upcoming-events&quot;&gt;Upcoming Events&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mock Interviews
+    &lt;ul&gt;
+      &lt;li&gt;October 28&lt;/li&gt;
+      &lt;li&gt;Sign up on website&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CS Bonfire
+    &lt;ul&gt;
+      &lt;li&gt;November 2&lt;/li&gt;
+      &lt;li&gt;carpool at sub 7pm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Robocode
+    &lt;ul&gt;
+      &lt;li&gt;Intro meeting November 5&lt;/li&gt;
+      &lt;li&gt;Event November 10&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;topic-python-concurrency&quot;&gt;Topic: Python Concurrency&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a href=&quot;/acm/assets/python_con/py_thread.zip&quot;&gt;Here&lt;/a&gt; is the entire zip file of the python programs used in this presentation&lt;/p&gt;
+
+&lt;p&gt;python basics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;uses white space instead of brackets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;stuff&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Concurrency&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;used to programs that execute on one thread that runs from start to finish and you can trace it&lt;/li&gt;
+  &lt;li&gt;concurrency allows multiple tasks to be preformed at once&lt;/li&gt;
+  &lt;li&gt;have to wait for threads to finish before we exit the main program
+    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;this all allows for more work to be done in less time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Python has some oddities&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;to pass in arguments you have to make it known you are passing in tuples not other data types
+    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; \\&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,)&lt;/span&gt; \\&lt;span class=&quot;nb&quot;&gt;tuple&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Threading in Python specifically&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Using the basic threading package in python, all threads are run on the same python thread.
+    &lt;ul&gt;
+      &lt;li&gt;this means that three threads in your program are running on the one thread on your computer&lt;/li&gt;
+      &lt;li&gt;this ends up making threading run slower in many scenarios&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the operating system gives the python interpreter a single core and then the python interpreter has to schedule the three threads on its own which can lead to it taking longer than linear execution&lt;/li&gt;
+  &lt;li&gt;what is the use of threading if it slows down the program&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Blocking and non-blocking&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;blocking is basically something that requires the program or thread to wait for something
+    &lt;ul&gt;
+      &lt;li&gt;such as sleeping or waiting for network traffic&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sharing memory&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;when you have shared memory, multiple threads have access to the same data&lt;/li&gt;
+  &lt;li&gt;when the scheduler doesn’t overlap execution of the threads, you can get the right answer
+    &lt;ul&gt;
+      &lt;li&gt;other times you cannot&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;an example is adding and subtracting at the same time in two different times
+    &lt;ul&gt;
+      &lt;li&gt;one run got 0, the desired answer&lt;/li&gt;
+      &lt;li&gt;the second run got -30549&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;we often do not want memory accessed at the same time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Semaphore&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;how do you make sure data isn’t edited concurrently&lt;/li&gt;
+  &lt;li&gt;you often use locks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;self.lock = threading.lock
+
+
+
+s.lock.aquire()
+stuff
+s.lock.release()
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;this allows for a thread to deny access to memory while it executes&lt;/li&gt;
+  &lt;li&gt;for logic that requires constant locking of data, this can make threading slower than linear due to overhead&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This doesnt sound good. when would you use threads&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;think of accessing a first in first out queue and producer and consumer example(you can google this if you dont know what that is)
+    &lt;ul&gt;
+      &lt;li&gt;the threads should not be looking at the same part of the queue very often&lt;/li&gt;
+      &lt;li&gt;this means, there shouldnt be many times when one thread is locked out of the queue making it much faster to thread it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;so try to group and minimize the code using the memory&lt;/li&gt;
+  &lt;li&gt;if you have a lot of blocking code this is also good&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Daemon threads&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;normal threads will keep running after the main thread or main program has ended&lt;/li&gt;
+  &lt;li&gt;a Daemon thread will stop running the second the main thread exits
+    &lt;ul&gt;
+      &lt;li&gt;even if its not finished, the thread will close&lt;/li&gt;
+      &lt;li&gt;this is dangerous if say the thread is accessing the file&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Multiprocessing&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is actually using multiple processors on the computer&lt;/li&gt;
+  &lt;li&gt;this allows for true actual concurrency&lt;/li&gt;
+  &lt;li&gt;python is no longer using a scheduler&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In python threading is different than multiprocessing&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;threading is using one hardware thread while multiprocessing is using multiple hardware threads&lt;/li&gt;
+  &lt;li&gt;the python interpreter can only ever run one thread. it is a single threaded processor regardless
+    &lt;ul&gt;
+      &lt;li&gt;to do true multiprocessing, python will open a new interpreter for each processes in your program&lt;/li&gt;
+      &lt;li&gt;a pipe is then created to pass your program to the new interpreter
+        &lt;ul&gt;
+          &lt;li&gt;this can lead to slow downs if your program requires large parameters to be passed&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;this copying of your program allows a small window a python interpreter is running without your code&lt;/li&gt;
+      &lt;li&gt;it is possible for a malicious program to insert code into this interpreter and run it using the permission of your parent program
+        &lt;ul&gt;
+          &lt;li&gt;if your program is running in sudo, malicious code can get sudo access&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;this is fixed by using cryptographic handshakes to make sure your code is running and not malicious code&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Asyncio&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;scheduler only knows if a thread is blocked or not blocked
+    &lt;ul&gt;
+      &lt;li&gt;this can lead to some overhead of polling the threads&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;async allows for threads to declare when they are no longer blocking kind of
+    &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;run&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;allows threading without as much overhead&lt;/li&gt;
+  &lt;li&gt;similar thing is there in node.js
+    &lt;ul&gt;
+      &lt;li&gt;kind of where it comes from&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://acm.truman.edu/acm/2018/10/Python-Concurrency</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Python-Concurrency</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
+    
+      <item>
+        <title>Classes for Spring 2019</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mock interviews coming up October 28th
+    &lt;ul&gt;
+      &lt;li&gt;Sign on on website&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CS Bonfire
+    &lt;ul&gt;
+      &lt;li&gt;November 2nd&lt;/li&gt;
+      &lt;li&gt;Beck’s house&lt;/li&gt;
+      &lt;li&gt;carpool at sub&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Robocode
+    &lt;ul&gt;
+      &lt;li&gt;November 10th&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Next meeting
+    &lt;ul&gt;
+      &lt;li&gt;October 15th&lt;/li&gt;
+      &lt;li&gt;Python concurrency&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;topic-classes&quot;&gt;Topic: Classes&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.truman.edu/registrar/schedules-and-calendars/registration-dates-spring/&quot;&gt;Registration dates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://catalog.truman.edu/preview_program.php?catoid=14&amp;amp;poid=2048&quot;&gt;General Requirements for CS Degree&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Classes offered in the spring&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;100 Computer Science Seminar R&lt;/li&gt;
+  &lt;li&gt;170 Intro to Computer Science I&lt;/li&gt;
+  &lt;li&gt;180 Fnd of Computer Science I R&lt;/li&gt;
+  &lt;li&gt;181 Foundations of Comp Science II R&lt;/li&gt;
+  &lt;li&gt;191 Computing Structures R&lt;/li&gt;
+  &lt;li&gt;250 Systems Programming R&lt;/li&gt;
+  &lt;li&gt;260 Object-Oriented Prog &amp;amp; Design R&lt;/li&gt;
+  &lt;li&gt;291 Models of Computation R&lt;/li&gt;
+  &lt;li&gt;310 Data Structures &amp;amp; Algorithms R&lt;/li&gt;
+  &lt;li&gt;330 Computer Architecture &amp;amp; Org R&lt;/li&gt;
+  &lt;li&gt;345 WE/Cyberethics R&lt;/li&gt;
+  &lt;li&gt;370 WE/Software Engineering A&lt;/li&gt;
+  &lt;li&gt;430 Database Systems AC&lt;/li&gt;
+  &lt;li&gt;460 Computer Graphics C&lt;/li&gt;
+  &lt;li&gt;470 Computer Networks B&lt;/li&gt;
+  &lt;li&gt;480 Artificial Intelligence C&lt;/li&gt;
+  &lt;li&gt;495 Senior Seminar in CS R&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;R = required by major&lt;/p&gt;
+
+&lt;p&gt;A B C = Sections satisfied&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Professors teaching important classes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CS 181 - Beck, Jaiswal&lt;/li&gt;
+  &lt;li&gt;CS 191 - Halma&lt;/li&gt;
+  &lt;li&gt;CS 250 - Matthews&lt;/li&gt;
+  &lt;li&gt;CS 260 - Matthews&lt;/li&gt;
+  &lt;li&gt;CS 291 - Garvey&lt;/li&gt;
+  &lt;li&gt;CS 330 - Matthews&lt;/li&gt;
+  &lt;li&gt;CS 430 - Jaiswal&lt;/li&gt;
+  &lt;li&gt;CS 460 - Neitzke&lt;/li&gt;
+  &lt;li&gt;CS 470 - Jaiswal&lt;/li&gt;
+  &lt;li&gt;CS 480 - Garvey&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is one of the first times neither Halma or Neitzke is teaching 291. I would take that if at all possible&lt;/li&gt;
+  &lt;li&gt;Neitzke has also started teaching 330 recently. If you are able to i would also take 330 with Matthews&lt;/li&gt;
+  &lt;li&gt;I personally think it would be really fun to take 181 with Beck, but I think you would get just as much out of it with Jaiswal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Secondary courses offered in science and math&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Stat 290 - Thatcher&lt;/li&gt;
+  &lt;li&gt;Calc 1 - Vazzana, Howard, Palumbo&lt;/li&gt;
+  &lt;li&gt;Calc 2 - quinn, fernando&lt;/li&gt;
+  &lt;li&gt;Calc 3 - Belanger&lt;/li&gt;
+  &lt;li&gt;Math 200 - Easley&lt;/li&gt;
+  &lt;li&gt;Phys 185 - Ling, Sherafati&lt;/li&gt;
+  &lt;li&gt;Chem 100 - Carter, Afzal, Kauffmann&lt;/li&gt;
+  &lt;li&gt;Chem 130 - Kauffmann, Fuller, Lyon&lt;/li&gt;
+  &lt;li&gt;Biol 100 - Bergey, Berke, Kuczynski, Ma, Pareja&lt;/li&gt;
+  &lt;li&gt;Biol 106 - Fielden-Rechav&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Thatcher is probably the easiest stat teacher. She also teaches it almost every semester. If you cant take it with her, try and get Downey if available&lt;/li&gt;
+  &lt;li&gt;Vazzana is an amazing calc professor. if possible take any calc class with him
+    &lt;ul&gt;
+      &lt;li&gt;Garth is also a professor who teaches calc. You may not learn as much with him, but his classes tend to be easy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Math 200 replaces 191. You will learn more with Easley, but Garth teaches it sometimes and is easier&lt;/li&gt;
+  &lt;li&gt;Carter is great for chem 100 if you dont want to learn anything&lt;/li&gt;
+  &lt;li&gt;Ma is a chill professor, but may not be good for beginning classes
+    &lt;ul&gt;
+      &lt;li&gt;Bergey and Fielden are great professors&lt;/li&gt;
+      &lt;li&gt;Avoid Berke&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;LSP classes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;there are a lot of these classes with many professors for each one&lt;/li&gt;
+  &lt;li&gt;use &lt;a href=&quot;http://www.ratemyprofessors.com/&quot;&gt;Rate My Professors&lt;/a&gt; and look them up to see which are good&lt;/li&gt;
+  &lt;li&gt;Professors can make an easy class hard, so look them up&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some specific reqirements&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Philosophy and religion
+    &lt;ul&gt;
+      &lt;li&gt;Logic (really good for learning proofs)&lt;/li&gt;
+      &lt;li&gt;Ethics (easy, but can be boring since you already have to take an ethics class)&lt;/li&gt;
+      &lt;li&gt;Exploring religions (easy)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Health
+    &lt;ul&gt;
+      &lt;li&gt;Military science (2 sem) More of a time commitment&lt;/li&gt;
+      &lt;li&gt;Lifetime fitness&lt;/li&gt;
+      &lt;li&gt;Personal health and fitness&lt;/li&gt;
+      &lt;li&gt;one of the fitness classes is partially online&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Filler Classes&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lib 111 Library science (1 credit) - Glaubitz&lt;/li&gt;
+  &lt;li&gt;Stat 374 Stat Quality Control (3 Credit) - Downey/Thatcher&lt;/li&gt;
+  &lt;li&gt;Chem 100 (4 Credit) - Don’t learn much&lt;/li&gt;
+  &lt;li&gt;PD 312 Basic Aviation (3 Credit)&lt;/li&gt;
+  &lt;li&gt;Ask upperclassmen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jins&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ask around&lt;/li&gt;
+  &lt;li&gt;use rate my professors&lt;/li&gt;
+  &lt;li&gt;some that sound interesting can be horrible because of the professor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Other stuff&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Most art and music classes are not easy. Some of the appreciation ones are, but just be careful&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://acm.truman.edu/acm/2018/10/Classes-for-Spring</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Classes-for-Spring</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
+    
+      <item>
+        <title>Resume Tips</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;look out for new changes this semester
+    &lt;ul&gt;
+      &lt;li&gt;We will now be collecting dues this semester at $5.&lt;/li&gt;
+      &lt;li&gt;This will get you into the events and helps up provide exciting things and hopefully cool prizes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;We will be having two events this semester
+    &lt;ul&gt;
+      &lt;li&gt;coding competition&lt;/li&gt;
+      &lt;li&gt;robo code&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;topic-resumes&quot;&gt;Topic: resumes&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Contact info&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Keep it short and simple
+    &lt;ul&gt;
+      &lt;li&gt;Name&lt;/li&gt;
+      &lt;li&gt;Email&lt;/li&gt;
+      &lt;li&gt;Phone number&lt;/li&gt;
+      &lt;li&gt;Links to sites&lt;/li&gt;
+      &lt;li&gt;Address (according to the career center companies often sort by how close a candidate is to the place they will work)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Summary/Objective&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tell the recruiter what you want to do with your skills, not what the skills specifically are&lt;/li&gt;
+  &lt;li&gt;Show ambition and the drive to utilize what you know&lt;/li&gt;
+  &lt;li&gt;Keep it short (Jaiswal emphasized this because some recruiters do not like it when this is included)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Experience&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Think big
+    &lt;ul&gt;
+      &lt;li&gt;Of course you programmed at a CS internship&lt;/li&gt;
+      &lt;li&gt;think more of specifically what you did&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Freshman
+    &lt;ul&gt;
+      &lt;li&gt;They know you haven’t done real work in CS yet so keep this short. Focus on projects&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Think of what skills you used hard or soft and the combination of both
+    &lt;ul&gt;
+      &lt;li&gt;Programmed an android app as a team&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Never say you have no experience. If you don’t you have the power to change that
+    &lt;ul&gt;
+      &lt;li&gt;There are countless websites out there that allow you to practice&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com&quot;&gt;Hackerrank&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.codeacademy.com&quot;&gt;Code Academy&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Education&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This can add to experience if you don’t have a lot.&lt;/li&gt;
+  &lt;li&gt;Specify coursework that will stand out&lt;/li&gt;
+  &lt;li&gt;Specify awards or honors&lt;/li&gt;
+  &lt;li&gt;Anything else you did in school that could pertain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Skills&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You want to know how to talk about your skills&lt;/li&gt;
+  &lt;li&gt;Expand upon the skill with tools you use for it
+    &lt;ul&gt;
+      &lt;li&gt;Database software&lt;/li&gt;
+      &lt;li&gt;Development environments&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Try to keep them relevant or related to what you do
+    &lt;ul&gt;
+      &lt;li&gt;You’re not good at writing papers, your a strong technical writer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://zety.com/blog/computer-science-resume&quot;&gt;Here&lt;/a&gt; is the website i primarily used for my information. Remember, there is no one right way to create a resume as long as it gets the information across without being hard to read&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+        <link>http://acm.truman.edu/acm/2018/09/Resume-Building</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/09/Resume-Building</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
+    
+      <item>
+        <title>Jordan Butler's Wrist Game</title>
+        <description>&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;p&gt;Final Meeting. Hope to see everyone next year.&lt;/p&gt;
+&lt;h4 id=&quot;get-the-app-on-the-app-store&quot;&gt;Get the app on the app store&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/dX2UgmFSxVwKeGN2ar-xMIeHg7GS5QT9KT2FuzEBLofUH28-SM4IBXtWPbjvsnj6fg=s360-rw&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.thrustgames.wrist&quot;&gt;&lt;img src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&quot; alt=&quot;Google Play Link&quot; style=&quot;width: 12em;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/app/wrist/id1354769672?mt=8&quot;&gt; &lt;img src=&quot;https://atlona.com/wp-content/uploads/2017/12/Apple-App-Store-_logo.png&quot; alt=&quot;Apple App Store&quot; style=&quot;width: 10em;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;topic&quot;&gt;Topic&lt;/h3&gt;
+
+&lt;p&gt;Jordan Butler&lt;/p&gt;
+
+&lt;p&gt;Founded company: Thrust Games&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;First game&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Shoot em up&lt;/li&gt;
+  &lt;li&gt;Basic game of spaceship shooting other ships&lt;/li&gt;
+  &lt;li&gt;Game salad engine&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Second game&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Shoot em up 2&lt;/li&gt;
+  &lt;li&gt;First copyrighted&lt;/li&gt;
+  &lt;li&gt;Better graphics
+    &lt;ul&gt;
+      &lt;li&gt;Started using photoshop and such&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In game currencies
+    &lt;ul&gt;
+      &lt;li&gt;In-app purchases&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stop the box&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;First big game&lt;/li&gt;
+  &lt;li&gt;Videos of this game got big hits on Instagram and other social media&lt;/li&gt;
+  &lt;li&gt;Featured on Fox news&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Newest game: Wrist&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Implemented leaderboards
+    &lt;ul&gt;
+      &lt;li&gt;Using apple service&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;160 levels&lt;/li&gt;
+  &lt;li&gt;Tilt the phone to guide the ball to the end&lt;/li&gt;
+  &lt;li&gt;Earn in game currencies&lt;/li&gt;
+  &lt;li&gt;Can customize many aspects of the game through the store&lt;/li&gt;
+  &lt;li&gt;Added ability to calibrate sensors so that the game doesn’t have to be played in one position the whole time
+    &lt;ul&gt;
+      &lt;li&gt;Took 7 months of development&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;At most 10 months per week of development during school.
+    &lt;ul&gt;
+      &lt;li&gt;More than that during summer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Game has better performance than older games by Thrust Games&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Connections&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Wrist has two investors&lt;/li&gt;
+  &lt;li&gt;Got to drive Lambo&lt;/li&gt;
+  &lt;li&gt;Meeting people can lead to other connections&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
+    
+      <item>
+        <title>Dr. Bindner's Bitcoin Presentation</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://bitcoin.org/img/icons/opengraph.png&quot; alt=&quot;Bitcoin Logo&quot; style=&quot;width: 16em;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;CS bonfire Friday 27th. 7pm at Beck’s house&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;topic&quot;&gt;Topic&lt;/h3&gt;
+&lt;p&gt;Bindner talked about Bitcoin.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mentioned that passwords for sensitive information should not be the same as other websites.
+    &lt;ul&gt;
+      &lt;li&gt;One weak link can compromise a system&lt;/li&gt;
+      &lt;li&gt;Doesn’t necessarily effect you, but can effect others&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hash Cash
+    &lt;ul&gt;
+      &lt;li&gt;Attempt to stop spam&lt;/li&gt;
+      &lt;li&gt;Update SMTP
+        &lt;ul&gt;
+          &lt;li&gt;Can allow a mail server to question the sender server if it suspects spam&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;This makes spam cost more electricity and time in hopes spam decreases&lt;/li&gt;
+      &lt;li&gt;Never caught on&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Public key encryption
+    &lt;ul&gt;
+      &lt;li&gt;Has personal private key and a public key&lt;/li&gt;
+      &lt;li&gt;Private key
+        &lt;ul&gt;
+          &lt;li&gt;decrypt&lt;/li&gt;
+          &lt;li&gt;sign messages&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Public key
+        &lt;ul&gt;
+          &lt;li&gt;encryption&lt;/li&gt;
+          &lt;li&gt;verify signature&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Digicash
+    &lt;ul&gt;
+      &lt;li&gt;Required bank&lt;/li&gt;
+      &lt;li&gt;Didn’t know who money was from until someone tried to spend the money twice&lt;/li&gt;
+      &lt;li&gt;Died when bank bought out tech and killed it
+        &lt;ul&gt;
+          &lt;li&gt;Competed with credit cards&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Crypto currencies
+    &lt;ul&gt;
+      &lt;li&gt;Simply signing messages saying you are paying someone doesn’t work
+        &lt;ul&gt;
+          &lt;li&gt;You can sign a message to multiple people&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;There must be a way for everyone to know when a payment is made
+        &lt;ul&gt;
+          &lt;li&gt;Blockchain is a way to go&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Blockchain
+    &lt;ul&gt;
+      &lt;li&gt;When you make a transaction, you set an amount of money you will pay someone if they find a block in the chain
+        &lt;ul&gt;
+          &lt;li&gt;You want the money or fee to be high enough that miners will want to include it in their blocks&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;It takes lots of time and money to mine these blocks
+        &lt;ul&gt;
+          &lt;li&gt;This makes it far to expensive to forge blocks&lt;/li&gt;
+          &lt;li&gt;After a few blocks, a transaction is cemented into the block chain&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Why care about digital currency
+    &lt;ul&gt;
+      &lt;li&gt;Don’t really care as much in US because we have credit cards and similar devices&lt;/li&gt;
+      &lt;li&gt;It is very expensive and difficult to get money in and out of the US
+        &lt;ul&gt;
+          &lt;li&gt;Digital currency can make this cheaper&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;In unstable countries, it is easy to smuggle digital currency out by remembering a set of words or a passcode for a digital wallet&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://acm.truman.edu/acm/2018/04/Bitcoin</link>
+        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Bitcoin</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
+    
+  </channel>
+</rss>
