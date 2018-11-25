@@ -12,14 +12,9 @@ Checkout our events tab to see the calendar and upcoming events. Also checkout t
 
 # Upcoming:  
 
-
-## General Meeting November 19<sup>th</sup>
-
-No meeting, Thanksgiving break. Enjoy the week off. 
-
 ## General Meeting November 26<sup>th</sup>
 
-We will be meeting in first floor Ryle lounge at the normal meeting time to hang out and eat pizza. We will have a Wii with smash and some other games. You are not obligated to stay for any length of time. This will be a very informal meeting just to hang out. 
+We are all very busy with finals coming up so make sure you study and get enough rest. Good luck on finals and look out for our elections coming up. 
 
 ## Elections December 3<sup>rd</sup>
 
