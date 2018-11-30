@@ -3,10 +3,10 @@
   <channel>
     <title>Truman ACM</title>
     <description>The website for Truman State's ACM chapter!</description>
-    <link>http://acm.truman.edu/acm/</link>
-    <atom:link href="http://acm.truman.edu/acm/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Nov 2018 00:14:45 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Nov 2018 00:14:45 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 30 Nov 2018 17:41:11 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Nov 2018 17:41:11 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -43,8 +43,8 @@
 
 </description>
         <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://acm.truman.edu/acm/2018/11/Intro-to-git</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/11/Intro-to-git</guid>
+        <link>http://localhost:4000/2018/11/Intro-to-git</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/Intro-to-git</guid>
         
         
         <category>meeting</category>
@@ -150,8 +150,8 @@
 
 </description>
         <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-        <link>http://acm.truman.edu/acm/2018/11/Robocode-Info</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/11/Robocode-Info</guid>
+        <link>http://localhost:4000/2018/11/Robocode-Info</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/Robocode-Info</guid>
         
         
         <category>meeting</category>
@@ -188,7 +188,7 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;a href=&quot;/acm/assets/python_con/py_thread.zip&quot;&gt;Here&lt;/a&gt; is the entire zip file of the python programs used in this presentation&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/python_con/py_thread.zip&quot;&gt;Here&lt;/a&gt; is the entire zip file of the python programs used in this presentation&lt;/p&gt;
 
 &lt;p&gt;python basics&lt;/p&gt;
 
@@ -355,8 +355,8 @@ s.lock.release()
 
 </description>
         <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-        <link>http://acm.truman.edu/acm/2018/10/Python-Concurrency</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Python-Concurrency</guid>
+        <link>http://localhost:4000/2018/10/Python-Concurrency</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/Python-Concurrency</guid>
         
         
         <category>meeting</category>
@@ -543,8 +543,8 @@ s.lock.release()
 
 </description>
         <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
-        <link>http://acm.truman.edu/acm/2018/10/Classes-for-Spring</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/10/Classes-for-Spring</guid>
+        <link>http://localhost:4000/2018/10/Classes-for-Spring</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/Classes-for-Spring</guid>
         
         
         <category>meeting</category>
@@ -649,8 +649,8 @@ s.lock.release()
 &lt;p&gt;&lt;a href=&quot;https://zety.com/blog/computer-science-resume&quot;&gt;Here&lt;/a&gt; is the website i primarily used for my information. Remember, there is no one right way to create a resume as long as it gets the information across without being hard to read&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-        <link>http://acm.truman.edu/acm/2018/09/Resume-Building</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/09/Resume-Building</guid>
+        <link>http://localhost:4000/2018/09/Resume-Building</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/Resume-Building</guid>
         
         
         <category>meeting</category>
@@ -739,8 +739,8 @@ s.lock.release()
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-        <link>http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Jordan-Butler's-Wrist</guid>
+        <link>http://localhost:4000/2018/04/Jordan-Butler's-Wrist</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/Jordan-Butler's-Wrist</guid>
         
         
         <category>meeting</category>
@@ -853,8 +853,8 @@ s.lock.release()
 
 </description>
         <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-        <link>http://acm.truman.edu/acm/2018/04/Bitcoin</link>
-        <guid isPermaLink="true">http://acm.truman.edu/acm/2018/04/Bitcoin</guid>
+        <link>http://localhost:4000/2018/04/Bitcoin</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/Bitcoin</guid>
         
         
         <category>meeting</category>
