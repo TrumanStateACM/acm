@@ -10,11 +10,6 @@ This is the website for the Truman State chapter of the Association for Computin
 Checkout our events tab to see the calendar and upcoming events. Also checkout the meeting minutes if you missed a meeting and would like to know what was talked about. 
 
 
-# Upcoming:  
-
-## General Meeting November 26<sup>th</sup>
-
-We are all very busy with finals coming up so make sure you study and get enough rest. Good luck on finals and look out for our elections coming up. 
 
 ## Elections December 3<sup>rd</sup>
 
