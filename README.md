@@ -4,7 +4,7 @@
 - title tag will be what is actually displayed on the webpage, so it should be meaningful 
 
 # Install jekyll windows
-- install ruby-dev from [this][https://rubyinstaller.org/downloads/] website
+- install ruby-dev from [this](https://rubyinstaller.org/downloads/) website
 - pull website to computer
 - hold shift and right click in acm website directory and open cmd
 - type 
