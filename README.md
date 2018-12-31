@@ -40,6 +40,9 @@ bundle exec jekyll build
 
 which will force the use of the version you needed. This works with all the jekyll commands
 
+All of the main pages are in _pages, except the front page which is just index.markdown in the root directory. They are markdown files that you edit so a minimal amount of html and css knowledge is necessary. 
+
+The meeting minutes are saved in _posts. There is a template for those. just make sure to save it and rename it before you start editing it. 
 
 # material-jekyll-theme
 [Demo](http://alexcarpenter.github.io/material-jekyll-theme)

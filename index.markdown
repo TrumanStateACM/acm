@@ -11,9 +11,19 @@ Checkout our events tab to see the calendar and upcoming events. Also checkout t
 
 
 
-## Elections December 3<sup>rd</sup>
+## General Meeting
 
-If you are interested in running for a position, go ahead and fill out [this][EF] form to give us an idea of who will be running. 
+We will start up meetings next semester. Look out either on here for an email at the beginning of the semester. 
+
+## New exec board. 
+
+We welcome the new exec board that will be joining us next semester. The new beard is 
+
+- President: Abanoub Ghaly
+- Vice President: Thu Vo
+- Secretary: Karl Ramberg
+- Treasurer: Ebenezer Osei
+- Webmaster: Dat Tran
 
 [interview]: https://docs.google.com/spreadsheets/d/1FiJR25jzb8O0iBQsuOHvjy3qT0Tc6RAPPldPe47iPAA/edit#gid=0
 [RC]: {{site.baseurl}}/robocode/

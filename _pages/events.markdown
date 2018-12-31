@@ -6,9 +6,7 @@ permalink: /events/
 
 # Here we will post upcoming events
 
-### Club Elections
-- Date: 3 December
-- [Here][EF] is a form to give us an idea of who is running
+
 
 ### [Hackathon 2019][HT]
 - Date: late February or March
@@ -28,7 +26,6 @@ permalink: /events/
 [SH]: https://hackathon.mst.edu
 [RT]: https://www.eventbrite.com/e/shamhacks-2018-tickets-39820147132
 [BI]: https://bsidesiowa.com
-[EF]: https://docs.google.com/forms/d/e/1FAIpQLSeTVlQn84IrA0cnextpUnzEsA4070Ef6j-V9AKdGY6RVVhgNg/viewform
 [HUI]: https://bigdata.uiowa.edu/
 [TH]: http://tigerhacks.missouri.edu/
 [prereg]: https://docs.google.com/forms/d/e/1FAIpQLSchsn5GW4XCcQAdmWlcy_RlRr8HXViZeXF0hDagANh5dkHEhQ/viewform
