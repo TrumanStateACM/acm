@@ -3,6 +3,44 @@
 - file name should be in the format yyyy-mm-dd-string.md
 - title tag will be what is actually displayed on the webpage, so it should be meaningful 
 
+# Install jekyll windows
+- install ruby-dev from [this][https://rubyinstaller.org/downloads/] website
+- pull website to computer
+- hold shift and right click in acm website directory and open cmd
+- type 
+
+``` 
+gem install bundler
+```
+
+- while cmd prompt is in acm directory type
+
+```
+bundle update
+```
+
+- then you can run 
+
+```
+jekyll build
+```
+
+to build the website 
+
+- if you get this error "You have already activated X, but your Gemfile requires Y" then you can do two things
+```
+gem uninstall x
+```
+
+with x being the version thats newer, or 
+
+``` 
+bundle exec jekyll build
+```
+
+which will force the use of the version you needed. This works with all the jekyll commands
+
+
 # material-jekyll-theme
 [Demo](http://alexcarpenter.github.io/material-jekyll-theme)
 
