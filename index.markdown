@@ -15,9 +15,9 @@ Checkout our events tab to see the calendar and upcoming events. Also checkout t
 
 We will start up meetings next semester. Look out either on here for an email at the beginning of the semester. 
 
-## New exec board. 
+## New Exec Board 
 
-We welcome the new exec board that will be joining us next semester. The new beard is 
+We welcome the new exec board that will be joining us next semester. The new board is 
 
 - President: Abanoub Ghaly
 - Vice President: Thu Vo
