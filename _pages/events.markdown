@@ -11,6 +11,11 @@ permalink: /events/
 ### [Hackathon 2019][HT]
 - Date: late February or March
 
+### [Missouri S&T Hackathon][S&T]
+- Date: 1 March - 3 March
+- Location: [Rolla][S&T_location]
+
+
 
 
 
@@ -29,3 +34,5 @@ permalink: /events/
 [HUI]: https://bigdata.uiowa.edu/
 [TH]: http://tigerhacks.missouri.edu/
 [prereg]: https://docs.google.com/forms/d/e/1FAIpQLSchsn5GW4XCcQAdmWlcy_RlRr8HXViZeXF0hDagANh5dkHEhQ/viewform
+[S&T]: https://pickhacks.io/
+[S&T_location]
