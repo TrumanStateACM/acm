@@ -25,6 +25,3 @@ We welcome the new exec board that will be joining us next semester. The new boa
 - Treasurer: Ebenezer Osei
 - Webmaster: Dat Tran
 
-[interview]: https://docs.google.com/spreadsheets/d/1FiJR25jzb8O0iBQsuOHvjy3qT0Tc6RAPPldPe47iPAA/edit#gid=0
-[RC]: {{site.baseurl}}/robocode/
-[EF]: https://docs.google.com/forms/d/e/1FAIpQLSeTVlQn84IrA0cnextpUnzEsA4070Ef6j-V9AKdGY6RVVhgNg/viewform

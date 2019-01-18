@@ -15,6 +15,9 @@ permalink: /events/
 - Date: 1 March - 3 March
 - Location: [Rolla][S&T_location]
 
+### [Science Olympiad][SO]
+- Date: 16 February 
+- Looking for CS students to help out. Contact Dr. Lamp at dlamp@truman.edu
 
 
 
@@ -35,4 +38,5 @@ permalink: /events/
 [TH]: http://tigerhacks.missouri.edu/
 [prereg]: https://docs.google.com/forms/d/e/1FAIpQLSchsn5GW4XCcQAdmWlcy_RlRr8HXViZeXF0hDagANh5dkHEhQ/viewform
 [S&T]: https://pickhacks.io/
-[S&T_location]
+[S&T_location]: https://www.google.com/maps/place/Havener+Center/@38.1959288,-91.9552169,9z/data=!4m5!3m4!1s0x87da54c8a1cb72e5:0x5433f63da26259b6!8m2!3d37.9548037!4d-91.7763536?shorturl=1
+[SO]: https://www.soinc.org/game-b
