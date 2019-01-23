@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hello, World!
 
-This is the website for Truman State University's ACM chapter. You can join or [mailing list][ML] or you can join our [Discord channel][DA]. You don't have to make a Discord account, you can just look around. Hope to see you there. 
+This is the website for Truman State University's ACM chapter. You can join or [mailing list][ML], visit our [Discord channel][DA], or check out our [Facebook page][FB]. Thank you for checking out our Website.
 
 <br /> 
 
