@@ -2,6 +2,7 @@
 
 - file name should be in the format yyyy-mm-dd-string.md
 - title tag will be what is actually displayed on the webpage, so it should be meaningful 
+- place files in _posts folder
 
 # Install jekyll windows
 - install ruby-dev from [this](https://rubyinstaller.org/downloads/) website
