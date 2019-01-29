@@ -5,9 +5,96 @@
     <description>The website for Truman State's ACM chapter!</description>
     <link>http://acm.truman.edu/</link>
     <atom:link href="http://acm.truman.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Jan 2019 14:12:26 -0600</pubDate>
-    <lastBuildDate>Thu, 24 Jan 2019 14:12:26 -0600</lastBuildDate>
+    <pubDate>Mon, 28 Jan 2019 18:52:10 -0600</pubDate>
+    <lastBuildDate>Mon, 28 Jan 2019 18:52:10 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Welcome Back, Spring 2019</title>
+        <description>&lt;h3 id=&quot;anouncements&quot;&gt;Anouncements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HackTruman 2019 will be March 29th - 31st&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;topic&quot;&gt;Topic&lt;/h3&gt;
+&lt;p&gt;A welcome back, informational meeting about the upcoming semester&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Executive BOard Introductions
+    &lt;ul&gt;
+      &lt;li&gt;Abanoub - President&lt;/li&gt;
+      &lt;li&gt;Thu - Vice President&lt;/li&gt;
+      &lt;li&gt;Karl - Secretary&lt;/li&gt;
+      &lt;li&gt;Ebenezar - Treasurer&lt;/li&gt;
+      &lt;li&gt;Dat - Webmaster&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;General Introductions
+    &lt;ul&gt;
+      &lt;li&gt;Lots of Wonderful People&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;New General Meeting Topics
+    &lt;ul&gt;
+      &lt;li&gt;A couple meetings a topic&lt;/li&gt;
+      &lt;li&gt;More like a crash course&lt;/li&gt;
+      &lt;li&gt;Will allow for more in-depth explanations&lt;/li&gt;
+      &lt;li&gt;Possible Topics
+        &lt;ul&gt;
+          &lt;li&gt;AI&lt;/li&gt;
+          &lt;li&gt;Quantum Computing&lt;/li&gt;
+          &lt;li&gt;Ethical Hacking*&lt;/li&gt;
+          &lt;li&gt;Web Developing&lt;/li&gt;
+          &lt;li&gt;Blockchain Programming&lt;/li&gt;
+          &lt;li&gt;Git*&lt;/li&gt;
+          &lt;li&gt;Terminal&lt;/li&gt;
+          &lt;li&gt;
+            &lt;p&gt;Linux Installation Party*&lt;/p&gt;
+
+            &lt;p&gt;*Favorite&lt;/p&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;HackTruman 2019
+    &lt;ul&gt;
+      &lt;li&gt;Date Finalized - March 29-31&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PickHacks 2019
+    &lt;ul&gt;
+      &lt;li&gt;Date - March 1-3&lt;/li&gt;
+      &lt;li&gt;Shuttle Bus Available Friday, 12pm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Possible Joint Event with SPS&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Activity Faire this Wednesday in the SUB&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dues are 5$ for the semester
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.paypal.me/acmTruman&quot;&gt;PayPal&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CS Bonfire??&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 28 Jan 2019 00:00:00 -0600</pubDate>
+        <link>http://acm.truman.edu/2019/01/Spring-Welcome</link>
+        <guid isPermaLink="true">http://acm.truman.edu/2019/01/Spring-Welcome</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>minutes</category>
+        
+      </item>
     
       <item>
         <title>Intro to Git</title>
