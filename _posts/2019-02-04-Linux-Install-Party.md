@@ -1,14 +1,18 @@
 ---
-layout post
-title Linux Install Party!
-date 2019-02-04
-categories meeting minutes
+layout: post
+title: "Linux Install Party!"
+date: 2019-02-04
+categories: meeting minutes
 ---
 
 ### Topic
 A introduction to Linux
 
+<<<<<<< HEAD
 !--more--
+=======
+<!--more-->
+>>>>>>> b1a687807c88f85a8791c24c78cbcc4fb6f7f3c3
 
 - William Fries presenting
 
@@ -29,4 +33,8 @@ A introduction to Linux
   - Creates a virtual, entirely isolated OS on disk
   - Great for testing and practicing potentially harmful practices
 
+<<<<<<< HEAD
 - Basic introduction the the terminal and permission on Linux
+=======
+- Basic introduction the the terminal and permission on Linux
+>>>>>>> b1a687807c88f85a8791c24c78cbcc4fb6f7f3c3
