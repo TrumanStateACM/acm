@@ -8,11 +8,7 @@ categories: meeting minutes
 ### Topic
 A introduction to Linux
 
-<<<<<<< HEAD
-!--more--
-=======
 <!--more-->
->>>>>>> b1a687807c88f85a8791c24c78cbcc4fb6f7f3c3
 
 - William Fries presenting
 
