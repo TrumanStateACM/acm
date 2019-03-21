@@ -6,7 +6,7 @@ permalink: /hacktruman/
 
 ---
 
-# HackTruman 2019 is approaching. Official dates are April 12<sup>th</sup>-14<sup>st</sup>
+# HackTruman 2019 is approaching. Official dates are April 12<sup>th</sup>-14<sup>th</sup>
 
 Sign-In will be from 4 to 5pm on Friday.
 Projects will be due 12pm Sunday.
