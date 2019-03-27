@@ -27,7 +27,9 @@ Sun 12:00pm - Closing
 ## Prizes
 
 1st - 
+
 2nd -
+
 Freshman - 
 
 ## Sponsors
