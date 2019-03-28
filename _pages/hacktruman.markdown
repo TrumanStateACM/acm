@@ -6,13 +6,15 @@ permalink: /hacktruman/
 
 ---
 
-# HackTruman 2019 is approaching. Official dates are April 12<sup>th</sup>-14<sup>th</sup>
+## April 12<sup>th</sup>-14<sup>th</sup>
+
+## Location will be annouced, plans went awry.
 
 ## Rules
 
-Maximum Team Size: 3
+Maximum Team Size of 3
 
-Projects must be only code made between the Opening and Closing times.
+Projects must be only code made between the Opening and Closing times
 
 ## Schedule
 
