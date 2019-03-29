@@ -13,11 +13,5 @@ We hold meetings on Mondays in VH 1332 at 6:00pm
 
 
 
-## General Meeting January 28<sup>th</sup>
-
-This should be a quick little introduction meeting to kick off the new semester. We hope to see you there. We will be in the same room as last year and same time. VH 1332 at 6:00pm
-
-## General Meeting February 4<sup>th</sup>
-
-Watch out for an announcement for our next full meeting. 
-
+## Next General Meeting
+Look out for an announcement on the next upcoming meeting. Hope to see you there. 
