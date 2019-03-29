@@ -9,16 +9,7 @@ permalink: /events/
 
 
 ### [Hackathon 2019][HT]
-- Date: 29 March - 31 March
-
-### [Missouri S&T Hackathon][S&T]
-- Date: 1 March - 3 March
-- Location: [Rolla][S&T_location]
-
-### [Science Olympiad][SO]
-- Date: 16 February 
-- Looking for CS students to help out. Contact Dr. Lamp at dlamp@truman.edu
-
+- Date: 12 April - 14 April
 
 
 
