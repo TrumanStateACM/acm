@@ -29,8 +29,5 @@ A introduction to Linux
   - Creates a virtual, entirely isolated OS on disk
   - Great for testing and practicing potentially harmful practices
 
-<<<<<<< HEAD
 - Basic introduction the the terminal and permission on Linux
-=======
-- Basic introduction the the terminal and permission on Linux
->>>>>>> b1a687807c88f85a8791c24c78cbcc4fb6f7f3c3
+
